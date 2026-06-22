@@ -14,3 +14,6 @@ qa/package-lock.json
 !.env.example
 *.pem
 *.key
+
+# private corpus lives in a separate private repo
+archive/
