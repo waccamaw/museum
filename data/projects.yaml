@@ -62,9 +62,11 @@ eras:
     projects:
       - title: "The Waccamaw Indian People"
         meta: "History &amp; community · being assembled"
-        desc: "An exhibit on the People — our history, recognition, gatherings, and community — drawn from the tribe's own records. In active research."
-        tags: [{label: "in research", class: "source"}]
+        desc: "An exhibit on the People — our history, recognition, gatherings, and community — drawn from the tribe's own records."
+        url: "/exhibits/waccamaw-people/"
+        tags: [{label: "exhibit", class: "source"}]
       - title: "Chief Hatcher"
         meta: "Tribal leadership · being assembled"
-        desc: "An exhibit honoring Chief Hatcher and the leadership of the Waccamaw Indian People. In active research."
-        tags: [{label: "in research", class: "source"}]
+        desc: "An exhibit honoring Chief Hatcher and the leadership of the Waccamaw Indian People."
+        url: "/exhibits/chief-hatcher/"
+        tags: [{label: "exhibit", class: "source"}]
