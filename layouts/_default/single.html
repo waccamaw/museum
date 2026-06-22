@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="container">
+<a class="backlink" href="/">&larr; Back to Museum</a>
+<article class="prose">
+<h1>{{ .Title }}</h1>
+{{ with .Params.meta }}<div class="meta">{{ . }}</div>{{ end }}
+{{ .Content }}
+</article>
+</div>
+{{ end }}

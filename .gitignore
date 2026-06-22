@@ -1,0 +1,16 @@
+/public/
+/resources/_gen/
+.hugo_build.lock
+node_modules/
+
+# museum-qa tooling — deps & generated reports are local-only
+qa/node_modules/
+qa/report/
+qa/package-lock.json
+
+# Secrets (required guardrail)
+.env
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,16 @@
+baseURL = "https://museum.waccamaw.org/"
+languageCode = "en-us"
+title = "museum.waccamaw.org"
+
+# Only content/, static/, assets/, layouts/, data/ are ever compiled.
+# The raw archive (archive/) — including the private research corpus — is never served.
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+[params]
+  author = "Waccamaw Indian People"
+  description = "A living archive of the Waccamaw Indian People — the tribe's website through the years, and the history of the People and Chief Hatcher."
+  # googleAnalytics = "G-XXXXXXXXXX"  # set to enable site-wide analytics
+
+[markup.goldmark.renderer]
+  unsafe = true

@@ -1,0 +1,70 @@
+# Drives the homepage timeline. A card with `url` is clickable; without `url` it's
+# a non-clickable archive/placeholder card. `shot` points to assets/shots/<name>.png.
+# Incarnation cards currently link to the Internet Archive snapshot; local hosted
+# snapshots will replace them as they are captured.
+eras:
+  - label: "2001 – 2002 · The first website"
+    projects:
+      - title: "waccamaw.org (2001)"
+        meta: "Internet Archive · earliest capture"
+        desc: "The earliest archived version of the Waccamaw Indian People's website — the tribe's first presence online."
+        url: "https://web.archive.org/web/2001/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+      - title: "waccamaw.org (2002)"
+        meta: "Internet Archive · 2002"
+        desc: "The early site as it grew through 2002."
+        url: "https://web.archive.org/web/2002/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+
+  - label: "2008 – 2010 · Mid-era"
+    projects:
+      - title: "waccamaw.org (2008)"
+        meta: "Local archive + Internet Archive"
+        desc: "A mid-era incarnation of the site, partially mirrored in the local archive."
+        url: "https://web.archive.org/web/2008/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}, {label: "local mirror", class: "local"}]
+
+  - label: "2011 – 2016 · Redesign era"
+    projects:
+      - title: "waccamaw.org (2013)"
+        meta: "Internet Archive · 2013"
+        desc: "A redesigned tribal site from the early 2010s."
+        url: "https://web.archive.org/web/2013/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+      - title: "waccamaw.org (2016)"
+        meta: "Internet Archive · 2016"
+        desc: "The site as it stood mid-decade."
+        url: "https://web.archive.org/web/2016/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+
+  - label: "2019 – 2024 · Modern era"
+    projects:
+      - title: "waccamaw.org (2020)"
+        meta: "Internet Archive · 2020"
+        desc: "A modern incarnation, heavily captured by the Internet Archive."
+        url: "https://web.archive.org/web/2020/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+      - title: "waccamaw.org (2023)"
+        meta: "Internet Archive · 2023"
+        desc: "The site in the early 2020s."
+        url: "https://web.archive.org/web/2023/http://www.waccamaw.org/"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+
+  - label: "2025 – present · Today"
+    projects:
+      - title: "waccamaw.org (live)"
+        meta: "Current site"
+        desc: "The Waccamaw Indian People's website as it stands today."
+        url: "https://waccamaw.org/"
+        tags: [{label: "live site", class: "source"}]
+
+  - label: "Exhibits · In research"
+    projects:
+      - title: "The Waccamaw Indian People"
+        meta: "History &amp; community · being assembled"
+        desc: "An exhibit on the People — our history, recognition, gatherings, and community — drawn from the tribe's own records. In active research."
+        tags: [{label: "in research", class: "source"}]
+      - title: "Chief Hatcher"
+        meta: "Tribal leadership · being assembled"
+        desc: "An exhibit honoring Chief Hatcher and the leadership of the Waccamaw Indian People. In active research."
+        tags: [{label: "in research", class: "source"}]

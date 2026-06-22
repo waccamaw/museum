@@ -1,0 +1,47 @@
+{{ define "main" }}
+<header class="site">
+<h1>museum<span>.</span>waccamaw.org</h1>
+<p>{{ site.Params.description }}</p>
+</header>
+<div class="container">
+
+<div class="intro">
+<p>The Waccamaw Indian People have kept a presence online since 2001. This is an
+archive of <strong>waccamaw.org through the years</strong> — every incarnation of
+the tribe's website we can recover — alongside exhibits on the People, our history,
+and the leadership of <strong>Chief Hatcher</strong>.</p>
+<p class="note">Built in the spirit of preservation: the public pages show what the
+tribe shared with the world, while a private research archive gathers the fuller
+record for study and future publication. Nothing sacred or restricted is published
+here.</p>
+</div>
+
+<div class="timeline">
+{{ range site.Data.projects.eras }}
+<section class="era">
+<div class="era-head"><span class="era-dot"></span><span class="era-label">{{ .label }}</span></div>
+<div class="projects-grid">
+{{ range .projects }}
+  {{- $title := .title -}}
+  {{- $img := "" -}}
+  {{- with .shot -}}{{- $img = resources.Get (printf "shots/%s.png" .) -}}{{- end -}}
+  {{ if .url }}<a href="{{ .url }}" class="card{{ if $img }} has-shot{{ end }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>{{ else }}<div class="card">{{ end }}
+  {{ with $img }}
+    {{ $thumb := .Fill "720x450 center webp q80" }}
+    <div class="shot"><img src="{{ $thumb.RelPermalink }}" loading="lazy" width="720" height="450" alt="{{ $title }} screenshot"></div>
+  {{ end }}
+    <div class="card-body">
+      <h3>{{ .title }}</h3>
+      <div class="meta">{{ .meta }}</div>
+      <div class="desc">{{ .desc }}</div>
+      <div class="tags">{{ range .tags }}<span class="tag {{ .class }}">{{ .label }}</span>{{ end }}</div>
+    </div>
+  {{ if .url }}</a>{{ else }}</div>{{ end }}
+{{ end }}
+</div>
+</section>
+{{ end }}
+</div>
+
+</div>
+{{ end }}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} &middot; {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ site.Params.description }}">
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ with site.Params.googleAnalytics }}
+<!-- Google Analytics (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{ . }}');
+</script>
+{{ end }}
+</head>
+<body>
+{{ block "main" . }}{{ end }}
+<footer class="site">
+<p>A project of the <a href="https://waccamaw.org">Waccamaw Indian People</a> &middot; preserving our history online</p>
+<p style="margin-top:.5rem;opacity:.8">Incarnations recovered from the Internet Archive and tribal records</p>
+</footer>
+</body>
+</html>
