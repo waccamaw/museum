@@ -18,6 +18,21 @@ eras:
         shot: "wac-2002"
         tags: [{label: "Wayback snapshot", class: "wayback"}]
 
+  - label: "2004 – 2011 · The tribe's own first site (waccamaw.us)"
+    projects:
+      - title: "waccamaw.us (2004)"
+        meta: "Internet Archive · the tribe's first website"
+        desc: "While the Foundation still held waccamaw.org, the Waccamaw Indian People ran their own site at waccamaw.us — a hand-coded frameset, 'Waccamaw Indian People Tribal Website,' with Home, News Letters, Forums, About, and Contact."
+        url: "https://web.archive.org/web/20040523124144/http://www.waccamaw.us/"
+        shot: "wac-us-2004"
+        tags: [{label: "Wayback snapshot", class: "wayback"}]
+      - title: "waccamaw.us — welcome (c. 2008)"
+        meta: "Internet Archive · 2005–2011"
+        desc: "The 'Official Tribal Web Site' welcome page — the Waccamaw River at Conway, an ENTER button between two ceremonial staffs, and the words 'Walk easy on Mother Earth.'"
+        url: "/exhibits/waccamaw-us/"
+        shot: "wac-us-2008"
+        tags: [{label: "exhibit", class: "source"}, {label: "Wayback snapshot", class: "wayback"}]
+
   - label: "2008 – 2010 · Mid-era"
     projects:
       - title: "waccamaw.org (mid-era, 2003)"
@@ -77,4 +92,9 @@ eras:
         meta: "Tribal leadership · being assembled"
         desc: "An exhibit honoring Chief Hatcher and the leadership of the Waccamaw Indian People."
         url: "/exhibits/chief-hatcher/"
+        tags: [{label: "exhibit", class: "source"}]
+      - title: "The tribe's first website"
+        meta: "waccamaw.us · 2004–2011"
+        desc: "The story of the tribe's first home on the web — hand-coded in 2004, the 'Walk easy on Mother Earth' welcome page through the late 2000s, then rebuilt in WordPress before it was hacked and taken down."
+        url: "/exhibits/waccamaw-us/"
         tags: [{label: "exhibit", class: "source"}]
