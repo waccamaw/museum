@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 [params]
   author = "Waccamaw Indian People"
   description = "A living archive of the Waccamaw Indian People — the tribe's website through the years, and the history of the People and Chief Hatcher."
-  # googleAnalytics = "G-XXXXXXXXXX"  # set to enable site-wide analytics
+  googleAnalytics = "G-P49D85S2B2"  # same GA4 property as waccamaw.org
 
 [markup.goldmark.renderer]
   unsafe = true
