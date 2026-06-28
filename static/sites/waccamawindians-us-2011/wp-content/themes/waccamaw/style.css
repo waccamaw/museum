@@ -1,0 +1,180 @@
+/*
+Theme Name: Starkers
+Theme URI: http://elliotjaystocks.com
+Description: The totally nude Wordpress theme. Phwoar! (Based on the famous <a href="http://binarybonsai.com/kubrick/">Kubrick</a> by <a href="http://binarybonsai.com/">Michael Heilemann</a>)
+Version: 2 (WP2.6.2)
+Author: Elliot Jay Stocks
+Author URI: http://elliotjaystocks.com
+Tags: starkers, naked, clean, basic
+*/
+
+@import "style/css/reset.css";
+@import "style/css/typography.css";
+@import "style/css/layout.css";
+
+body {
+
+background-color: #000;
+color: #fff;
+font-family: verdana;
+font-size: 12px;
+
+}
+
+
+a {
+
+color: #C9EBFF;	
+text-decoration: none;
+	
+}
+
+a:hover {
+
+color: #26A5EE;
+	
+}
+
+.sidebar {
+
+position: fixed; 
+border: 2px solid #810303;
+width: 75px;
+bottom: 10px;
+top: 10px;
+display: block;
+float: left;
+left: 5px;
+margin-top: auto;
+margin-bottom: auto;
+vertical-align: middle;
+}
+
+.sidebarmenu {
+position: relative;
+font-family: #3CC0CE;
+height: 40px;
+text-align: center;
+vertical-align: middle;
+border-left:1px double #BF0904; 
+border-right:1px double #BF0904; 
+padding-left: 4; 
+padding-right: 4; 
+padding-top: 8px; 
+padding-bottom: 1; 
+border-top-style:double; 
+border-top-width:3; 
+border-bottom-style:double; 
+border-bottom-width:3
+font-family: "Tempus Sans ITC", "times new roman";
+font-size: 8pt;
+font-weight: bold;
+color: #000000;
+background-color: #3CC0CE;
+line-height: 11px;
+
+}
+
+.sidebarmenu a {
+
+position: relative;
+text-decoration: none;
+color: #000;
+vertical-align: middle;
+
+}
+
+.navtext {vertical-align: middle; }
+
+.txtbody {
+
+display: block;
+position: absolute;
+float: right;
+left: 110px;
+right: 40px;
+top: 5px; 
+width: 711px;
+margin: 0px auto;
+padding-bottom: 40px;
+padding-top: 20px;
+
+
+
+}
+
+p { padding-bottom: 10px; }
+
+.header {
+
+padding: 5px;
+color: #fff;
+font-size: 24px;
+border-bottom: 2px solid white;
+
+}
+
+.txtbody  h2 {
+
+text-align: center;
+padding: 10px;
+font-size: 14px;
+
+
+}
+
+hr {
+
+color: #fff;
+background-color: #fff;
+height: 1px;	
+margin-top: -5px;
+}
+
+.txtbody h1 {
+
+text-align: center;
+padding: 10px;
+font-size: 18px;
+color: #A8A8A8;
+}
+
+.txtbody ul {
+
+margin-top: 5px;
+margin-left: 5px;
+padding-bottom: 10px;
+
+
+}
+
+.topnav ul {
+
+margin-top: 5px;
+margin-left: 5px;
+padding-bottom: 10px;
+border-bottom: 2px solid white;
+
+}
+
+.txtbody li {
+padding-bottom: 5px;
+
+padding-left: 20px;
+background-image: url('img/bullet-list.gif');
+background-repeat: no-repeat;
+background-position: 2px 2px;
+}
+
+.txtbody table {
+text-align: center;
+width: 400px;
+
+}
+
+.txtbody table th {
+text-align: center;
+width: 400px;
+font-weight: bold;
+
+}

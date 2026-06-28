@@ -20,12 +20,12 @@ eras:
 
   - label: "2009 – 2014 · The WordPress years (waccamawindians.us)"
     projects:
-      - title: "waccamawindians.us (2010)"
-        meta: "Internet Archive · the tribe's WordPress site"
-        desc: "The tribe's first content-managed site — WordPress, at waccamawindians.us (the waccamaw.us 'ENTER' splash fed into it). A dreamcatcher logo and a full menu: Home, About Us, Tribal Events, Members Only, Photo Gallery, Stories & Exhibits, Contact. © 2009 Waccamaw Indian People. This site was later compromised and taken down — it survives in the tribe's private archive."
-        url: "https://web.archive.org/web/20100628175207/http://www.waccamawindians.us/"
+      - title: "waccamawindians.us (2011)"
+        meta: "Rebuilt from the original theme · the tribe's WordPress site"
+        desc: "The tribe's first content-managed site — WordPress, at waccamawindians.us (the waccamaw.us 'ENTER' splash fed into it). Black background, dreamcatcher logo, a red-bordered sidebar menu, and 'Walk easy on Mother Earth' in white. Rebuilt here from the original theme files recovered from the 2012 backup. This site was later compromised and taken down."
+        url: "/sites/waccamawindians-us-2011/"
         shot: "wac-windians-us-2010"
-        tags: [{label: "Wayback snapshot", class: "wayback"}, {label: "see exhibit", class: "source"}]
+        tags: [{label: "rebuilt site", class: "local"}, {label: "see exhibit", class: "source"}]
 
   - label: "2013 – 2016 · waccamaw.org, won by arbitration"
     projects:

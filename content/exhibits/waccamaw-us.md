@@ -1,6 +1,7 @@
 ---
 title: "The tribe's first website — waccamaw.us"
 meta: "waccamaw.us / waccamawindians.us · 2004–2011"
+live_url: "/sites/waccamawindians-us-2011/"
 ---
 
 ![The waccamaw.us welcome page, c. 2008 — "Welcome to the Official Tribal Web Site of the Waccamaw Indian People," over a photograph of the Waccamaw River, flanked by ceremonial staffs, with the words "Walk easy on Mother Earth."](/exhibits/waccamaw-us/welcome-2008.png)
