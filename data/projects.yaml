@@ -3,26 +3,11 @@
 # Incarnation cards currently link to the Internet Archive snapshot; local hosted
 # snapshots will replace them as they are captured.
 eras:
-  - label: "2001 – 2002 · The first website"
-    projects:
-      - title: "waccamaw.org (2001)"
-        meta: "Internet Archive · earliest capture"
-        desc: "The earliest archived version of waccamaw.org. At this time the domain belonged to the Waccamaw Community Foundation, a separate charitable organization — the Waccamaw Indian People acquired the domain later, by arbitration."
-        url: "https://web.archive.org/web/20010730035959/http://www.waccamaw.org/"
-        shot: "wac-2001"
-        tags: [{label: "Wayback snapshot", class: "wayback"}]
-      - title: "waccamaw.org (2002)"
-        meta: "Internet Archive · 2002"
-        desc: "The site in 2002, still operated by the Waccamaw Community Foundation before the domain passed to the tribe."
-        url: "https://web.archive.org/web/20020402132818/http://www.waccamaw.org/"
-        shot: "wac-2002"
-        tags: [{label: "Wayback snapshot", class: "wayback"}]
-
-  - label: "2004 – 2011 · The tribe's own first site (waccamaw.us)"
+  - label: "2004 – 2008 · The tribe's first website (waccamaw.us)"
     projects:
       - title: "waccamaw.us (2004)"
         meta: "Internet Archive · the tribe's first website"
-        desc: "While the Foundation still held waccamaw.org, the Waccamaw Indian People ran their own site at waccamaw.us — a hand-coded frameset, 'Waccamaw Indian People Tribal Website,' with Home, News Letters, Forums, About, and Contact."
+        desc: "Years before the tribe held waccamaw.org, the Waccamaw Indian People ran their own site at waccamaw.us — a hand-coded frameset, 'Waccamaw Indian People Tribal Website,' with Home, News Letters, Forums, About, and Contact."
         url: "https://web.archive.org/web/20040523124144/http://www.waccamaw.us/"
         shot: "wac-us-2004"
         tags: [{label: "Wayback snapshot", class: "wayback"}]
@@ -33,16 +18,16 @@ eras:
         shot: "wac-us-2008"
         tags: [{label: "exhibit", class: "source"}, {label: "Wayback snapshot", class: "wayback"}]
 
-  - label: "2008 – 2010 · Mid-era"
+  - label: "2009 – 2014 · The WordPress years (waccamawindians.us)"
     projects:
-      - title: "waccamaw.org (mid-era, 2003)"
-        meta: "Local archive + Internet Archive"
-        desc: "No tribal homepage was archived between 2004 and 2012 (the domain only redirected during those years). This 2003 capture — the last full Waccamaw Community Foundation homepage before the domain changed hands — stands in for the mid-era. Mirrored in the local archive."
-        url: "https://web.archive.org/web/20030220135431/http://waccamaw.org/"
-        shot: "wac-2008"
-        tags: [{label: "Wayback snapshot", class: "wayback"}, {label: "local mirror", class: "local"}]
+      - title: "waccamawindians.us (2010)"
+        meta: "Internet Archive · the tribe's WordPress site"
+        desc: "The tribe's first content-managed site — WordPress, at waccamawindians.us (the waccamaw.us 'ENTER' splash fed into it). A dreamcatcher logo and a full menu: Home, About Us, Tribal Events, Members Only, Photo Gallery, Stories & Exhibits, Contact. © 2009 Waccamaw Indian People. This site was later compromised and taken down — it survives in the tribe's private archive."
+        url: "https://web.archive.org/web/20100628175207/http://www.waccamawindians.us/"
+        shot: "wac-windians-us-2010"
+        tags: [{label: "Wayback snapshot", class: "wayback"}, {label: "see exhibit", class: "source"}]
 
-  - label: "2011 – 2016 · Redesign era"
+  - label: "2013 – 2016 · waccamaw.org, won by arbitration"
     projects:
       - title: "waccamaw.org (2013)"
         meta: "Internet Archive · 2013"

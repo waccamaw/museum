@@ -5,10 +5,9 @@ meta: "waccamaw.us / waccamawindians.us · 2004–2011"
 
 ![The waccamaw.us welcome page, c. 2008 — "Welcome to the Official Tribal Web Site of the Waccamaw Indian People," over a photograph of the Waccamaw River, flanked by ceremonial staffs, with the words "Walk easy on Mother Earth."](/exhibits/waccamaw-us/welcome-2008.png)
 
-Long before the tribe held **waccamaw.org** — which in the early 2000s still
-belonged to the unrelated [Waccamaw Community Foundation](/) — the Waccamaw Indian
-People kept their own website at **waccamaw.us** (later **waccamawindians.us**).
-This was the tribe's true first home on the web.
+Years before the tribe held **waccamaw.org**, the Waccamaw Indian People kept their
+own website at **waccamaw.us** (later **waccamawindians.us**). This was the tribe's
+true first home on the web.
 
 ## 2004 — the hand-built site
 
@@ -27,14 +26,21 @@ either side, and the tribe's words running beneath — **"Walk easy on Mother
 Earth."** It served the community for years, with newsletters, forums, and tribal
 news.
 
-## ~2011/2012 — WordPress, and the end
+## 2009–2014 — the WordPress site (waccamawindians.us)
 
-The site was finally rebuilt in **WordPress**. That incarnation was short-lived: it
-was **compromised** — its theme had been injected with hidden paid-link spam and a
-remote backdoor — and the tribe **took the site down**. waccamaw.us disappears from
-the web after 2011, and the tribe's web presence moved to **waccamaw.org** once that
-domain was won (by arbitration) around 2012–2013.
+Behind that **ENTER** button was the tribe's first real content-managed site:
+**WordPress, at waccamawindians.us** (waccamaw.us was the alias and splash). By 2010
+it had a dreamcatcher logo and a full menu — **Home, About Us, Tribal Events,
+Members Only, Photo Gallery, Stories & Exhibits, Contact** — with a footer reading
+*"© 2009 Waccamaw Indian People."*
 
-Because it was taken offline rather than archived, the WordPress version survives
-only in a private 2012 server backup — preserved, carefully, in the tribe's private
-archive.
+![The waccamawindians.us WordPress site, 2010 — dreamcatcher logo and the tribal menu down the left.](/exhibits/waccamaw-us/wordpress-2010.png)
+
+That incarnation met an unfortunate end: it was **compromised** — the theme had been
+injected with hidden paid-link spam and a remote backdoor — and the tribe **took the
+site down**. Meanwhile the tribe had won **waccamaw.org** (by arbitration, around
+2012–2013) and moved its web presence there for good.
+
+Because the WordPress site was taken offline rather than archived in full, it
+survives — theme, content, and all — only in a private 2012 server backup,
+preserved carefully in the tribe's private archive.
