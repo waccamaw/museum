@@ -64,10 +64,20 @@ def save_asset(original_abs):
         return None
     with open(dest, "wb") as f:
         f.write(data)
-    # If CSS, rewrite its url() refs too
+    # If CSS, rewrite its @import and url() refs too (recursively)
     if ext.lower() == ".css":
         try:
             txt = data.decode("utf-8", "replace")
+            def imp_sub(m):
+                u = m.group(1).strip('\'"')
+                if u.startswith("data:"):
+                    return m.group(0)
+                ab = urllib.parse.urljoin(original_abs, u)
+                r = save_asset(ab)
+                return f'@import "{r}"' if r else m.group(0)
+            # @import "x.css"  and  @import url(x.css)
+            txt = re.sub(r'@import\s+url\(([^)]+)\)', imp_sub, txt)
+            txt = re.sub(r'@import\s+([\'"][^\'"]+[\'"])', imp_sub, txt)
             def css_sub(m):
                 u = m.group(1).strip('\'"')
                 if u.startswith(("data:", "#")):
