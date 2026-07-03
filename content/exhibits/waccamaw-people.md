@@ -5,7 +5,7 @@ desc: "The People: the settlement, the living culture, and the traditions writte
 weight: 40
 ---
 
-![Waccamaw Indian People tribal logo](/exhibits/waccamaw-people/logo.svg)
+<img src="/logos/waccamaw-logo.svg" alt="Waccamaw Indian People — official tribal logo" style="max-width:340px;display:block;margin:0 auto 1.5rem;border:none;box-shadow:none">
 
 The Waccamaw Indian People are **South Carolina's first state-recognized tribe**, recognized by the State of South Carolina in **2005**. In the tribe's own words:
 
