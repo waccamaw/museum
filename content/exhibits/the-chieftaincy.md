@@ -11,7 +11,7 @@ Read enough of them in date order and the succession reconstructs itself.
 
 | Period | Chief |
 |---|---|
-| …–2006 | **Harold "Buster" Hatcher** |
+| 1992–2006 | **Harold "Buster" Hatcher** *(chief from the 1992 founding; earliest archive signature 1998)* |
 | 2006–2007 | **Hartland "Tubby" West** |
 | 2007–2008 | **James Webb** *(acting)* |
 | 2008 | **Susan Hayes-Hatcher** |

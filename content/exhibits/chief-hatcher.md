@@ -7,6 +7,16 @@ meta: "Tribal leadership · honoring Chief Harold \"Buster\" D. Hatcher of the W
 
 **Chief Harold "Buster" D. Hatcher** led the Waccamaw Indian People for roughly thirty years, retiring as Chief on **June 29, 2026** — he holds the title "Chief" for life under tribal law.  In the tribe's own words, he is a "tireless advocate for the preservation of Native American history and culture" who "has dedicated his life to advancing the understanding and appreciation of Native American heritage, while also working to improve the lives of the Waccamaw Indian People."
 
+## The record
+
+He founded the modern tribal organization in **1992** and served as its chief from the
+founding (SCETV, 2015). A 1994 photograph in the University of South Carolina's Native
+American Archive — by documentary photographer Gene Crediford — shows "Waccamaw Chief
+Harold Hatcher, standing at his father's grave." Before the tribe: a childhood in the
+segregated schools of Horry County, and a decorated Army career — **Vietnam veteran;
+Bronze Star, Purple Heart, Vietnamese Cross of Gallantry** — retiring in 1988. His own
+telling is preserved in the [2021 oral history](/exhibits/waccamaw-voices/).
+
 ## A lifetime of advocacy
 
 According to the tribe, Chief Hatcher's leadership "has been instrumental in securing state recognition for our tribe" — recognition that, the Waccamaw note, "has opened up opportunities for cultural and social development, as well as access to various resources and benefits." The Waccamaw Indian People became South Carolina's first state-recognized tribe in 2005.

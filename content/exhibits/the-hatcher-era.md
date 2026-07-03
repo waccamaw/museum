@@ -11,6 +11,16 @@ council and officers of the Waccamaw Indian People:
 > *"I wanted to say to all who might care that today I rendered my resignation as the
 > Chief of the Waccamaw. I am not angry or hurt."*
 
+The arc starts long before the chieftaincy. A boy from a family of the Dimery
+Settlement grows up an outsider in a segregated school system that — in the county's
+own 1923 words — had no place for children "neither Black nor White." At seven or
+eight, in a store in Cherokee, he feels for the first time what belonging is: *"here
+was all these people that looked like me… I have a place to be now."* He carries that
+feeling through Vietnam — **Bronze Star, Purple Heart, Vietnamese Cross of
+Gallantry** — retires from the Army in 1988, and in 1992 builds the thing he'd been
+looking for since that store: *"a place where people that have not been accepted into
+the full society of this country can be accepted."* ([In His Own Words](/exhibits/in-his-own-words/))
+
 **Chief Harold "Buster" Hatcher** led the tribe for roughly thirty years — the
 2000 constitution and recognition petition, state recognition in 2005, the tribal
 grounds, the courts and constables, Waccamaw Day, the federal petition. The documents
