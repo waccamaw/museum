@@ -99,3 +99,31 @@ header.site p{color:var(--muted);margin:.8rem auto 0;font-size:1.06rem;max-width
 /* ---------- footer ---------- */
 footer.site{background:var(--footer-bg);color:#d8d2c8;text-align:center;padding:2.6rem 1.5rem;margin-top:3.5rem;font-family:var(--sans);font-size:.85rem}
 footer.site a{color:var(--ochre)}
+
+/* ---------- tribute landing hero ---------- */
+.tribute{
+  background:linear-gradient(150deg,#16283a 0%,#1f3a52 45%,#3a2c1c 100%);
+  color:#f0e9df;padding:4.5rem 1.5rem 4.2rem;position:relative;overflow:hidden;
+}
+.tribute::after{ /* faint river-light texture */
+  content:"";position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(ellipse 60% 50% at 78% 20%,rgba(200,150,62,.18),transparent 65%);
+}
+.tribute-inner{max-width:1040px;margin:0 auto;display:flex;gap:3.2rem;align-items:center;flex-wrap:wrap;position:relative;z-index:1}
+.tribute-photo img{
+  width:min(330px,70vw);border-radius:10px;border:7px solid rgba(255,255,255,.92);
+  box-shadow:0 18px 50px rgba(0,0,0,.5);transform:rotate(-1.2deg);display:block;
+}
+.tribute-text{flex:1;min-width:300px}
+.tribute-over{font-family:var(--sans);font-size:.78rem;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--ochre);margin-bottom:1rem}
+.tribute h1{
+  font-size:clamp(2.6rem,7vw,4.4rem);line-height:1.04;margin:0 0 1.3rem;color:#fff;
+  font-weight:650;letter-spacing:-.01em;
+}
+.tribute-lede{font-size:1.13rem;line-height:1.7;max-width:34rem;color:#e4dccd;margin-bottom:.7rem}
+.tribute-lede em{color:var(--ochre);font-style:italic}
+.tribute-answer{font-size:1.28rem;font-style:italic;color:#fff;margin:0 0 1.6rem;border-left:4px solid var(--ochre);padding-left:1rem}
+.tribute-ctas .btn{margin-right:.6rem;margin-bottom:.5rem}
+.btn.ghost-light{background:transparent;color:#f0e9df;border:1.5px solid rgba(240,233,223,.55);box-shadow:none}
+.btn.ghost-light:hover{background:rgba(240,233,223,.14);color:#fff;border-color:#fff}
+@media (max-width:760px){.tribute{padding:3rem 1.2rem}.tribute-inner{gap:1.8rem}.tribute-photo img{margin:0 auto}}
