@@ -5,7 +5,7 @@ meta: "Tribal leadership · honoring Chief Harold \"Buster\" D. Hatcher of the W
 
 ![Waccamaw Indian People tribal logo](/exhibits/chief-hatcher/logo.svg)
 
-**Chief Harold "Buster" D. Hatcher** is the esteemed leader of the Waccamaw Indian People. In the tribe's own words, he is a "tireless advocate for the preservation of Native American history and culture" who "has dedicated his life to advancing the understanding and appreciation of Native American heritage, while also working to improve the lives of the Waccamaw Indian People."
+**Chief Harold "Buster" D. Hatcher** led the Waccamaw Indian People for roughly thirty years, retiring as Chief on **June 29, 2026** — he holds the title "Chief" for life under tribal law.  In the tribe's own words, he is a "tireless advocate for the preservation of Native American history and culture" who "has dedicated his life to advancing the understanding and appreciation of Native American heritage, while also working to improve the lives of the Waccamaw Indian People."
 
 ## A lifetime of advocacy
 
@@ -21,9 +21,20 @@ In March 2025, the Waccamaw Indian People announced that **Coastal Carolina Univ
 
 The tribe called it a "well-deserved recognition," reflecting "a shared commitment to celebrating the rich cultural history of South Carolina."
 
+## The retirement — June 29, 2026
+
+On June 29, 2026, Chief Hatcher rendered his resignation in a letter to the tribal
+government, closing a chieftaincy of roughly thirty years — *"I am not angry or
+hurt... I led the tribe for about 30 years and I have no regrets."* The office passed
+automatically to his Vice Chief, **Chief Cheryl Sievers-Cail**, under Article VII of
+the constitution, with his blessing: *"Please give your loyalty to Chief Cail, I
+believe she will lead ably and honestly."* Under Resolution SH-08-04-2006-01 he
+retains the title "Chief" for life — with privilege, without authority — and signs
+**"Chief Retired."** The fuller story is told in [The Hatcher Era](/exhibits/the-hatcher-era/).
+
 ## In his own words
 
-Chief Hatcher continues to lead the tribe's work toward **federal recognition** and to lift up the community around him. Sharing a documentary about the Waccamaw made by friends Robert Gatty and the late David Hinshaw, he wrote:
+Through his tenure, Chief Hatcher led the tribe's work toward **federal recognition** and lifted up the community around him. Sharing a documentary about the Waccamaw made by friends Robert Gatty and the late David Hinshaw, he wrote:
 
 > You will see familiar faces throughout. I am very proud of these people and feel a great appreciation for every one of them.
 

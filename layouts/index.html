@@ -43,5 +43,21 @@ here.</p>
 {{ end }}
 </div>
 
+
+<section class="era">
+<div class="era-head"><span class="era-dot"></span><span class="era-label">Exhibit Halls &middot; the People, the leadership, and the governance record</span></div>
+<div class="projects-grid">
+{{ range where site.RegularPages "Section" "exhibits" }}
+<a href="{{ .RelPermalink }}" class="card">
+  <div class="card-body">
+    <h3>{{ .Title }}</h3>
+    <div class="meta">{{ .Params.meta }}</div>
+    <div class="desc">{{ .Params.desc }}</div>
+  </div>
+</a>
+{{ end }}
+</div>
+</section>
+
 </div>
 {{ end }}
