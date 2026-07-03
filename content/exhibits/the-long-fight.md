@@ -1,8 +1,8 @@
 ---
 title: "The Long Fight — five generations"
-meta: "1813 · 1935 · 1988 · 2005 · 2022 — one family, one argument, two centuries"
+meta: "Pillar exhibit · 1813 · 1935 · 1988 · 2005 · 2022 — one family, one argument, two centuries"
 desc: "From John Dimery buying back his people's land to the federal petition: the same fight, five generations running."
-weight: 12
+weight: 20
 ---
 
 Some families hand down land. This one handed down a lawsuit.
@@ -44,6 +44,12 @@ the modern tribal organization and begun a recognition campaign he worked "with 
 governor from Carroll Campbell on down" — twenty-some years, ending on **February 17,
 2005**, when the Waccamaw Indian People became the first tribe recognized by the
 State of South Carolina.
+
+Recognition wasn't an ending; it was admission to the table. The record fills with
+the follow-through: delegate appointments to the state's Native American bodies, a
+seat on the Minority Affairs advisory committee held by the *retired* chief, letters
+to Congress, a federal recognition committee — the quiet machinery a small nation
+builds when the loud part of the fight is won.
 
 **2022 — the fight continues.** The federal petition is filed. The remains of some
 600 ancestors sit warehoused in institutions, awaiting a recognition that would compel

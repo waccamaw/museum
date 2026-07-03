@@ -1,8 +1,8 @@
 ---
-title: "Waccamaw Voices — the oral histories"
-meta: "2021 · recorded interviews with Chief Hatcher, Vice Chief Cail, and John D Turner"
+title: "Waccamaw Voices — recordings & film"
+meta: "Oral histories, television, and film — the People on tape, 2015–2026"
 desc: "The People in their own voices — oral-history interviews, preserved and transcribed."
-weight: 15
+weight: 22
 ---
 
 In March 2021, students from Coastal Carolina University's *"Waccamaw Indian People:
@@ -33,6 +33,27 @@ succession.
 Memories of the settlement and the People.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fuser-475547154%2Fjohn-d-turner-audio-interview&color=%23594a38&auto_play=false"></iframe>
+
+## On film
+
+**Meet Harold Hatcher** — SCETV's Native American Heritage Month profile (2015):
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NaJ8Z9WacL0" title="Meet Harold Hatcher, Chief of the Waccamaw Indian People" frameborder="0" allowfullscreen loading="lazy"></iframe>
+
+**Conversations with Nicole** — two long-form conversations with the chief (Horry County
+Government TV, January and November 2021):
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FFq9gfGyJkA" title="Conversations with Nicole — Chief Harold Hatcher (November 2021)" frameborder="0" allowfullscreen loading="lazy"></iframe>
+
+**The history, in his telling** — Chief Hatcher's Digibridge presentation on the
+Waccamaw past and present (2022):
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7thSiRyc--E" title="Chief Buster Hatcher — Digibridge" frameborder="0" allowfullscreen loading="lazy"></iframe>
+
+**The Right To Bury Our Own** — the documentary on the tribe's fight for burial
+rights and the return of its ancestors: [watch at waccamaw.org/documentary](https://www.waccamaw.org/documentary).
+And *After Action* (public television's veterans series) profiles [his Vietnam
+service](https://www.afteractionshow.org/veteran/harold-buster-hatcher).
 
 ---
 

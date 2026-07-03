@@ -2,7 +2,7 @@
 title: "In His Own Words — Chief Hatcher"
 meta: "The chief's voice, 1992–2026 — from recorded interviews, broadcasts, and his letters"
 desc: "What Harold 'Buster' Hatcher actually said — the childhood, the war, the tribe, the goodbye."
-weight: 16
+weight: 11
 ---
 
 Every line below is his, verbatim, from a recorded interview, a broadcast, or a letter
