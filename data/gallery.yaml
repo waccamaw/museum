@@ -1,0 +1,50 @@
+# Sourced photo gallery — every entry captioned + credited. Curated, not dumped.
+photos:
+  - src: /exhibits/gallery/hatcher-2023-hero.jpg
+    caption: Against the sky — the chief in full regalia, eagle-head staff in hand
+    year: "2023"
+    source: MyHorryNews / The Horry Independent
+  - src: /exhibits/gallery/hatcher-2018-myhorry.jpg
+    caption: The chief in full feathered headdress — profile at a tribal gathering
+    year: "2018"
+    source: MyHorryNews / The Horry Independent
+  - src: /exhibits/gallery/hatcher-2021-logo.jpg
+    caption: Before the seal of the People of the Waccamaw — fur turban and eagle feather
+    year: "2020"
+    source: The Post and Courier
+  - src: /exhibits/gallery/hatcher-dihs.jpg
+    caption: In full regalia — breastplate and headdress — before the tipis at a Waccamaw gathering
+    year: ""
+    source: Daniel Island Historical Society
+  - src: /exhibits/gallery/hatcher-2020-covid-mask.jpg
+    caption: Leading an outdoor gathering in the pandemic year, face paint and mask in hand — the tribe adapted, and met anyway
+    year: "2020"
+    source: The Post and Courier
+  - src: /exhibits/gallery/hatcher-2024-smiling.jpg
+    caption: The chief, smiling, in beaded headdress and regalia
+    year: "2024"
+    source: South Carolina History Newsletter
+  - src: /exhibits/gallery/1994-crediford-fathers-grave.jpg
+    caption: '"Waccamaw Chief Harold Hatcher, standing at his father''s grave" — the earliest independent record of him as Chief'
+    year: "1994"
+    source: Gene Joseph Crediford Collection, Native American Studies Center, USC Lancaster
+  - src: /exhibits/gallery/2007-unity-powwow.jpg
+    caption: Unity Powwow grand entry — Chief James Caulder, Chief Buster Hatcher, Chief Carolyn Bolton, Chief Gene Norris
+    year: "2007"
+    source: Gene Joseph Crediford Collection, NASC, USC Lancaster
+  - src: /exhibits/gallery/2015-scetv-still.jpg
+    caption: '"Meet Harold Hatcher" — from SCETV''s Native American Heritage Month profile'
+    year: "2015"
+    source: South Carolina ETV / knowitall.org (video still)
+  - src: /exhibits/gallery/ccu-degree-regalia-speech.jpg
+    caption: Addressing an audience in traditional regalia — from the tribe's announcement of his honorary degree from Coastal Carolina University
+    year: "2023"
+    source: Waccamaw Indian People, waccamaw.org
+  - src: /exhibits/gallery/regalia-tipis-powwow.jpg
+    caption: In full regalia before the tipis — believed to be Chief Hatcher (identification pending family confirmation)
+    year: "c. 2010s"
+    source: waccamaw.org (2020 site archive)
+  - src: /exhibits/gallery/2022-digibridge-still.jpg
+    caption: Teaching the history — Chief Hatcher's Digibridge presentation on the Waccamaw past and present
+    year: "2022"
+    source: Digibridge (video still)

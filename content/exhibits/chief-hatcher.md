@@ -1,34 +1,71 @@
 ---
-title: "Chief Hatcher"
-meta: "Tribal leadership · honoring Chief Harold \"Buster\" D. Hatcher of the Waccamaw Indian People"
+title: "Chief Harold 'Buster' Hatcher"
+meta: "Pillar exhibit · the founder's life — segregated schoolhouse to the chieftaincy, 1992–2026"
+desc: "The man who built the modern tribe: soldier, plaintiff, founder, chief — retired June 29, 2026, Chief for life."
+weight: 10
 ---
 
-![Waccamaw Indian People tribal logo](/exhibits/chief-hatcher/logo.svg)
+![Chief Hatcher before the seal of the People of the Waccamaw — fur turban and eagle feather](/exhibits/gallery/hatcher-2021-logo.jpg)
 
-**Chief Harold "Buster" D. Hatcher** is the esteemed leader of the Waccamaw Indian People. In the tribe's own words, he is a "tireless advocate for the preservation of Native American history and culture" who "has dedicated his life to advancing the understanding and appreciation of Native American heritage, while also working to improve the lives of the Waccamaw Indian People."
+**Harold "Buster" Hatcher** founded the modern Waccamaw Indian People and led it for
+more than three decades — from a living-room organization to South Carolina's first
+state-recognized tribe. He retired as Chief on **June 29, 2026**, and holds the title
+"Chief" for life under tribal law.
 
-## A lifetime of advocacy
+## The boy
 
-According to the tribe, Chief Hatcher's leadership "has been instrumental in securing state recognition for our tribe" — recognition that, the Waccamaw note, "has opened up opportunities for cultural and social development, as well as access to various resources and benefits." The Waccamaw Indian People became South Carolina's first state-recognized tribe in 2005.
+He grew up in the segregated Horry County of the 1940s and 50s, a Waccamaw child in a
+school system that — as the county's own newspaper had put it a generation earlier —
+had no place for children "neither Black nor White."
 
-Beyond the tribe, his work has reached "the entire state of South Carolina," contributing "greatly to the cultural landscape of the region."
+> "I was wrong at home because I wasn't dark enough. I was wrong at school because I
+> wasn't white enough."
 
-## Honorary degree from Coastal Carolina University
+At seven or eight, on a trip to Cherokee, an older Cherokee woman in a store treated
+him as one of her own — *"it made me feel like I'm home… I have a place to be now."*
+He would spend the rest of his life building that place for everyone else.
+([In His Own Words](/exhibits/in-his-own-words/) · [The Long Fight](/exhibits/the-long-fight/))
 
-In March 2025, the Waccamaw Indian People announced that **Coastal Carolina University would award Chief Harold D. Hatcher an honorary graduate degree** at its commencement ceremony. The tribe described the honor this way:
+## The soldier
 
-> This honor serves to recognize Chief Hatcher's unwavering advocacy for the rights, recognition, and cultural preservation of the Waccamaw Indian People, as well as his numerous contributions to the broader South Carolina community.
+Twenty years in the U.S. Army: **82nd Airborne**, Vietnam combat — an APC gunner who
+cleared tunnels — wounded by a sniper. **Bronze Star, Purple Heart, Vietnamese Cross
+of Gallantry, Combat Infantryman Badge.** He rose from E-4 to a direct appointment as
+Warrant Officer and retired a **WO-3 in 1988**. *"I was raised in the Army and all I
+know is Army Leadership."*
 
-The tribe called it a "well-deserved recognition," reflecting "a shared commitment to celebrating the rich cultural history of South Carolina."
+## The founder
 
-## In his own words
+Home in South Carolina, he asked the state to register his company as minority-owned.
+The state answered that **there were no Indians in South Carolina**. He sued, and won
+— and then went further: in **1992** he chartered the modern tribal organization and
+began the recognition campaign he would work "with every governor from Carroll
+Campbell on down," ending on **February 17, 2005**, when the Waccamaw became the
+first tribe recognized by the State of South Carolina.
 
-Chief Hatcher continues to lead the tribe's work toward **federal recognition** and to lift up the community around him. Sharing a documentary about the Waccamaw made by friends Robert Gatty and the late David Hinshaw, he wrote:
+## The chief (1992–2026)
 
-> You will see familiar faces throughout. I am very proud of these people and feel a great appreciation for every one of them.
+Under his chieftaincy the tribe wrote **three constitutions** (2000, 2008/09, 2016),
+built a government of three branches, established its courts and constables, acquired
+the tribal grounds at Dog Bluff, made **Waccamaw Day** and the year-round **Pauwau**
+into institutions, and filed the **federal recognition petition** (2022). Beyond the
+tribe: leadership across South Carolina's Indian affairs bodies, a **2018 Jefferson
+Award** for public service, and an **honorary degree from Coastal Carolina
+University**. The office passed through other hands in 2006–2008 — West, Webb, Hayes
+— before his restoration in 2009; the full succession is kept in the tribal record.
 
-He signs his public messages simply: *Buster.*
+## The retirement
+
+On June 29, 2026, he resigned in a 250-word letter — *"I am not angry or hurt… I led
+the tribe for about 30 years and I have no regrets"* — passing the office
+automatically, under Article VII of the constitution, to his Vice Chief, **Chief
+Cheryl Sievers-Cail**, with his blessing. Under Resolution SH-08-04-2006-01 he keeps
+the title for life: *with privilege, without authority.* He signs **"Chief Retired."**
 
 ---
 
-*This exhibit is drawn entirely from the Waccamaw Indian People's own public website, [waccamaw.org](https://waccamaw.org/) — including the March 28, 2025 announcement of Chief Hatcher's honorary degree and a February 18, 2026 message from Chief Buster Hatcher. A fuller biography is being assembled in partnership with the tribe.*
+*Sources: the tribe's governance archive (constitutions, resolutions, succession
+record); CCU "Waccamaw Voices" oral history (2021); Center for Cultural Preservation
+oral history (2014); SCETV (2015); the resignation letter (2026). Hear him:
+[Waccamaw Voices](/exhibits/waccamaw-voices/) · see him:
+[Photo Gallery](/exhibits/photo-gallery/).*

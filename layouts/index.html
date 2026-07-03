@@ -1,47 +1,71 @@
 {{ define "main" }}
-<header class="site">
-<h1>museum<span>.</span>waccamaw.org</h1>
-<p>{{ site.Params.description }}</p>
-</header>
+<div class="tribute">
+  <div class="tribute-inner">
+    <div class="tribute-photo">
+      <img src="/exhibits/gallery/hatcher-2023-hero.jpg" alt="Chief Harold 'Buster' Hatcher in full regalia against the sky, eagle-head staff in hand">
+    </div>
+    <div class="tribute-text">
+      <div class="tribute-over">Waccamaw Indian People · 1992 – 2026 · thirty years</div>
+      <h1>Thank you,<br>Chief.</h1>
+      <p class="tribute-lede">On June 29, 2026, <strong>Chief Harold "Buster" Hatcher</strong> retired
+      after three decades leading the tribe he founded — closing his letter to the People with
+      <em>"Thank you for allowing me to serve… I did my best for you."</em></p>
+      <p class="tribute-answer">This museum is the People's answer.</p>
+      <div class="tribute-ctas">
+        <a class="btn" href="/exhibits/chief-hatcher/">His story</a>
+        <a class="btn ghost-light" href="/exhibits/waccamaw-voices/">Hear his voice</a>
+        <a class="btn ghost-light" href="/exhibits/photo-gallery/">See the years</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="container">
 
-<div class="intro">
-<p>The Waccamaw Indian People have kept a presence online since 2001. This is an
-archive of <strong>waccamaw.org through the years</strong> — every incarnation of
-the tribe's website we can recover — alongside exhibits on the People, our history,
-and the leadership of <strong>Chief Hatcher</strong>.</p>
-<p class="note">Built in the spirit of preservation: the public pages show what the
-tribe shared with the world, while a private research archive gathers the fuller
-record for study and future publication. Nothing sacred or restricted is published
-here.</p>
+<div class="history-band">
+  <div class="hb-item"><div class="hb-year">1521</div><div class="hb-text">First historical mention of the Waccamaw</div></div>
+  <div class="hb-item"><div class="hb-year">1813</div><div class="hb-text">John Dimery buys back 300 acres — the Dimery Settlement</div></div>
+  <div class="hb-item"><div class="hb-year">1935</div><div class="hb-text">Vander Hatcher sues Horry County over the Indian school</div></div>
+  <div class="hb-item"><div class="hb-year">1988</div><div class="hb-text">Told "there are no Indians in South Carolina," Buster Hatcher sues the state — and wins</div></div>
+  <div class="hb-item"><div class="hb-year">1992</div><div class="hb-text">The modern tribe is founded</div></div>
+  <div class="hb-item"><div class="hb-year">2005</div><div class="hb-text">First state-recognized tribe in South Carolina</div></div>
+  <div class="hb-item"><div class="hb-year">2016</div><div class="hb-text">The third constitution is ratified</div></div>
+  <div class="hb-item"><div class="hb-year">2022</div><div class="hb-text">The federal recognition petition is filed</div></div>
+  <div class="hb-item"><div class="hb-year">2026</div><div class="hb-text">Chief Hatcher retires; Chief Sievers-Cail succeeds</div></div>
 </div>
 
 <div class="timeline">
-{{ range site.Data.projects.eras }}
+
 <section class="era">
-<div class="era-head"><span class="era-dot"></span><span class="era-label">{{ .label }}</span></div>
+<div class="era-head"><span class="era-dot"></span><span class="era-label">The Pillars</span></div>
 <div class="projects-grid">
-{{ range .projects }}
-  {{- $title := .title -}}
-  {{- $img := "" -}}
-  {{- with .shot -}}{{- $img = resources.Get (printf "shots/%s.png" .) -}}{{- end -}}
-  {{ if .url }}<a href="{{ .url }}" class="card{{ if $img }} has-shot{{ end }}"{{ if hasPrefix .url "http" }} target="_blank" rel="noopener"{{ end }}>{{ else }}<div class="card">{{ end }}
-  {{ with $img }}
-    {{ $thumb := .Fill "720x450 center webp q80" }}
-    <div class="shot"><img src="{{ $thumb.RelPermalink }}" loading="lazy" width="720" height="450" alt="{{ $title }} screenshot"></div>
-  {{ end }}
-    <div class="card-body">
-      <h3>{{ .title }}</h3>
-      <div class="meta">{{ .meta }}</div>
-      <div class="desc">{{ .desc }}</div>
-      <div class="tags">{{ range .tags }}<span class="tag {{ .class }}">{{ .label }}</span>{{ end }}</div>
-    </div>
-  {{ if .url }}</a>{{ else }}</div>{{ end }}
-{{ end }}
+{{ range where site.RegularPages "Section" "exhibits" }}{{ if le (.Params.weight | default 999) 22 }}
+<a href="{{ .RelPermalink }}" class="card">
+  <div class="card-body">
+    <h3>{{ .Title }}</h3>
+    <div class="meta">{{ .Params.meta }}</div>
+    <div class="desc">{{ .Params.desc }}</div>
+  </div>
+</a>
+{{ end }}{{ end }}
 </div>
 </section>
-{{ end }}
-</div>
 
+<section class="era">
+<div class="era-head"><span class="era-dot"></span><span class="era-label">The Halls · the People, their government, their web</span></div>
+<div class="projects-grid">
+{{ range where site.RegularPages "Section" "exhibits" }}{{ if gt (.Params.weight | default 999) 22 }}
+<a href="{{ .RelPermalink }}" class="card">
+  <div class="card-body">
+    <h3>{{ .Title }}</h3>
+    <div class="meta">{{ .Params.meta }}</div>
+    <div class="desc">{{ .Params.desc }}</div>
+  </div>
+</a>
+{{ end }}{{ end }}
+</div>
+</section>
+
+</div>
 </div>
 {{ end }}
