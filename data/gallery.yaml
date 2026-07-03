@@ -1,15 +1,30 @@
-# Sourced photo gallery — every entry carries caption + source. Generated additions
-# come from the vision-scan; keep entries curated, captioned, credited.
+# Sourced photo gallery — every entry captioned + credited. Curated, not dumped.
 photos:
   - src: /exhibits/gallery/chief-hatcher-portrait.jpg
     caption: Chief Harold "Buster" Hatcher — official tribal portrait
     year: ""
-    source: Waccamaw Indian People (waccamaw.org)
+    source: Waccamaw Indian People, waccamaw.org
   - src: /exhibits/gallery/1994-crediford-fathers-grave.jpg
-    caption: '"Waccamaw Chief Harold Hatcher, standing at his father''s grave" — the earliest independent record of Hatcher as Chief'
+    caption: '"Waccamaw Chief Harold Hatcher, standing at his father''s grave" — the earliest independent record of him as Chief'
     year: "1994"
     source: Gene Joseph Crediford Collection, Native American Studies Center, USC Lancaster
   - src: /exhibits/gallery/2007-unity-powwow.jpg
-    caption: 'Unity Powwow grand entry — Chief James Caulder, Chief Buster Hatcher, Chief Carolyn Bolton, Chief Gene Norris'
+    caption: Unity Powwow grand entry — Chief James Caulder, Chief Buster Hatcher, Chief Carolyn Bolton, Chief Gene Norris
     year: "2007"
     source: Gene Joseph Crediford Collection, NASC, USC Lancaster
+  - src: /exhibits/gallery/2015-scetv-still.jpg
+    caption: '"Meet Harold Hatcher" — from SCETV''s Native American Heritage Month profile'
+    year: "2015"
+    source: South Carolina ETV / knowitall.org (video still)
+  - src: /exhibits/gallery/regalia-tipis-powwow.jpg
+    caption: In full regalia before the tipis at a Waccamaw gathering — believed to be Chief Hatcher (identification pending family confirmation)
+    year: "c. 2010s"
+    source: waccamaw.org (2020 site archive)
+  - src: /exhibits/gallery/ccu-degree-regalia-speech.jpg
+    caption: Chief Hatcher, in traditional regalia, addresses an audience — from the tribe's announcement of his honorary degree from Coastal Carolina University
+    year: "2023"
+    source: Waccamaw Indian People, waccamaw.org
+  - src: /exhibits/gallery/2022-digibridge-still.jpg
+    caption: Teaching the history — Chief Hatcher's Digibridge presentation on the Waccamaw past and present
+    year: "2022"
+    source: Digibridge (video still)

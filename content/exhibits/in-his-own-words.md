@@ -55,6 +55,20 @@ non-federally-recognized tribe from possessing an eagle's feather.
 > "I placed an eagle's feather in her casket."
 > — *oral history, 2014 — the burial-rights fight, in nine words*
 
+## The heritage
+
+> "We didn't have a word that meant hunt. Our word meant making meat, and we felt like
+> the only reason to take a life was to sustain life."
+> — *oral history, 2014*
+
+> "It's kind of like everything that is alive is rolled into a big ball or marble…
+> it doesn't matter how small of a piece it is, and it doesn't matter how far away
+> from the anvil it flies. It's always a piece of God, nature."
+> — *oral history, 2014*
+
+> "I've been a slave long enough, and I'm not going to be a slave anymore."
+> — *on why he wears a choker, never a four-in-hand necktie — oral history, 2014*
+
 ## The goodbye
 
 > "I have never lied to you, and never stabbed anyone in the back. I do nothing under

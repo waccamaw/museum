@@ -40,6 +40,30 @@ force "to the extent consistent" with the current constitution — twenty-five y
 tribal law flowing forward through each rewrite. Which is why the tribe keeps a
 verified archive of all of it ([about this museum](/exhibits/about-this-museum/)).
 
+## The chieftaincy, from the signatures
+
+No master list of chiefs survived — so the archive reconstructed the succession from
+the signature blocks of the tribe's own resolutions:
+
+| Period | Chief |
+|---|---|
+| 1992–2006 | **Harold "Buster" Hatcher** — chief from the founding |
+| 2006–2007 | **Hartland "Tubby" West** |
+| 2007–2008 | **James Webb** *(acting)* |
+| 2008 | **Susan Hayes-Hatcher** |
+| 2009–2026 | **Harold "Buster" Hatcher** *(restored)* |
+| 2026– | **Cheryl Sievers-Cail** |
+
+## A record that shows its work
+
+The archive keeps the *paper* as faithfully as the law. On the signed originals, the
+handwriting is history: an election certification where the tallies are **corrected by
+hand** — 69 struck through, 70 written above; a resolution where a confirmation
+threshold is amended in ink in the margin; reading dates fixed, months corrected,
+"passes" circled. The archive preserves every emendation verbatim, because on
+documents like these, the hand-corrections *are* the record of a small government
+doing its work honestly.
+
 Constitutional design is usually studied in nation-states. It's worth seeing what it
 looks like when a community of a few hundred does it for themselves, carefully, for
 a quarter century.

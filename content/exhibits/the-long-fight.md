@@ -7,6 +7,19 @@ weight: 20
 
 Some families hand down land. This one handed down a lawsuit.
 
+**Before the paper: Blackwater.** The Waccamaw enter the written record in **1521** —
+among the first peoples of the continent Europeans wrote down. The name itself is the
+river's, not theirs: *"Well, you know actually the Waccamaw is the name of a river,
+not a people… We called it Blackwater. Waccamaw. So we became Blackwaters when the
+white people got here."* In the early 1700s, when Waccamaw bands struck back at
+traders who cheated them, the colony answered with what history calls the **Waccamaw
+War** — *"they came in and killed about 100 men, women, and children, and the rest ran
+off and joined the Catawbas."* Even that last clause the chief contests, citing King
+Hagler of the Catawba, summoned to Charleston and asked to contain the Waccamaws:
+*"And Hagler says, 'I can't get them to mind me either.' So the history book that said
+we joined the Catawbas probably is inaccurate."* A people who survived by not being
+governable — it is the oldest thread in this story.
+
 **1813 — buy it back.** After the Revolution, South Carolina granted the land the
 People were living on to a man named Josiah Lewis — who had them removed. John Dimery,
 Chief Hatcher's great-great-great-grandfather, pooled money with friends and **bought
@@ -59,6 +72,41 @@ it, asked what he wants his legacy to be:
 
 > "I want it to be that I at least made it a little bit more palatable in South
 > Carolina for Indians to be known to have lived here — **that we are human beings**."
+
+## The fight is also cultural
+
+The lawsuits are the loud part. The quiet part is a running list of things the law
+would not let a non-federal Indian do — and what the tribe did about each:
+
+**Bury the dead properly.** *"Traditionally we like to put an eagle's feather in the
+casket of all of our dead people to lead their spirit back to God. Unfortunately, if
+you're not a federal tribe you can't legally own an eagle's feather. So when we bury
+our dead, we're compelled to slip it in and hide it. But my mother died… She was
+ninety-eight years old, and I gave her an eagle's feather. She's buried with one…
+Even though I'm a combat veteran from the Republic of Vietnam… I can't practice the
+religion of my choice. Something's wrong with that concept."* The documentary **The
+Right To Bury Our Own** carries this fight forward, alongside the return of some 600
+ancestors' remains warehoused in institutions.
+
+**Sell your own art as your own.** Federal law (P.L. 101-644, the Indian Arts and
+Crafts Act) makes it illegal to sell craft as Native-made without state or federal
+recognition — *"We're the only people in the country that have such a rule to live
+with."* Recognition, again, as the key to ordinary life.
+
+**Marry your own way.** Told by a politician to "just go get you a Notary Public
+seal," the chief refused: *"No, I'm not going to do that. My signature as a chief
+ought to suffice."* South Carolina's law was changed (2008) so Native leaders can
+perform marriages — done the Waccamaw way: *"we tie the left hands together and the
+right hands together and put the blanket over their backs."*
+
+**Wear what you are.** He does not wear a four-in-hand necktie: *"A four-in-hand tie
+was a way they used to lead slaves… I wore one when I was in the military. I don't
+wear them now. **I've been a slave long enough, and I'm not going to be a slave
+anymore.**"* He wears a choker.
+
+And the wins keep accruing: **Indigenous Peoples' Day** now stands where Columbus Day
+stood in Myrtle Beach and Conway — argued for, like everything else here, one meeting
+at a time.
 
 *Sources: Center for Cultural Preservation oral history (David Weintraub, 2014,
 saveculture.org); CCU "Waccamaw Voices" (2021); recognition record in the governance

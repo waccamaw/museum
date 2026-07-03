@@ -1,26 +1,49 @@
-{{- /* Sourced photo gallery: horizontal scroll-snap slider + click-to-enlarge.
-       Data-driven from data/gallery.yaml — every photo carries caption + source. */ -}}
-<div class="gallery-slider" id="gallery">
-{{ range site.Data.gallery.photos }}
-  <figure class="gallery-item">
-    <img src="{{ .src }}" alt="{{ .caption }}" loading="lazy" onclick="this.closest('figure').classList.toggle('zoomed')">
-    <figcaption>
-      <div class="g-caption">{{ .caption }}</div>
-      <div class="g-source">{{ with .year }}{{ . }} · {{ end }}{{ .source }}</div>
-    </figcaption>
-  </figure>
-{{ end }}
+{{- /* Sourced photo gallery v2 — no cropping (object-fit: contain on a warm mat),
+       center-snap carousel with arrows + counter, click-to-enlarge lightbox.
+       Data-driven from data/gallery.yaml; every photo carries caption + source. */ -}}
+<div class="gal" id="gal">
+  <button class="gal-arrow gal-prev" aria-label="Previous photo" onclick="galStep(-1)">&#10094;</button>
+  <div class="gal-track" id="gal-track">
+  {{ range $i, $p := site.Data.gallery.photos }}
+    <figure class="gal-item" data-i="{{ $i }}">
+      <div class="gal-mat"><img src="{{ $p.src }}" alt="{{ $p.caption }}" loading="lazy" onclick="this.closest('.gal-item').classList.toggle('zoomed')"></div>
+      <figcaption>
+        <div class="g-caption">{{ $p.caption }}</div>
+        <div class="g-source">{{ with $p.year }}{{ . }} · {{ end }}{{ $p.source }}</div>
+      </figcaption>
+    </figure>
+  {{ end }}
+  </div>
+  <button class="gal-arrow gal-next" aria-label="Next photo" onclick="galStep(1)">&#10095;</button>
 </div>
-<div class="gallery-hint">← scroll → &middot; click a photo to enlarge</div>
+<div class="gal-counter"><span id="gal-n">1</span> / {{ len site.Data.gallery.photos }} &middot; click a photo to enlarge</div>
 <style>
-.gallery-slider{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;padding:8px 2px 16px;-webkit-overflow-scrolling:touch}
-.gallery-item{flex:0 0 min(78%,520px);scroll-snap-align:center;margin:0;background:rgba(0,0,0,.14);border-radius:10px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.25)}
-.gallery-item img{width:100%;height:330px;object-fit:cover;display:block;cursor:zoom-in;transition:filter .2s}
-.gallery-item img:hover{filter:brightness(1.06)}
-.gallery-item.zoomed{position:fixed;inset:0;z-index:99;background:rgba(10,8,6,.94);display:flex;flex-direction:column;justify-content:center;border-radius:0}
-.gallery-item.zoomed img{height:auto;max-height:82vh;object-fit:contain;cursor:zoom-out}
-.gallery-item figcaption{padding:10px 14px}
-.g-caption{font-weight:bold}
-.g-source{opacity:.65;font-size:.85em;margin-top:3px}
-.gallery-hint{text-align:center;opacity:.55;font-size:.85em;margin-top:2px}
+.gal{position:relative;margin:1.2rem 0 .4rem}
+.gal-track{display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 2px 10px;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.gal-item{flex:0 0 min(86%,640px);scroll-snap-align:center;margin:0}
+.gal-mat{background:linear-gradient(160deg,#efe6d2,#e6d9bd);border:1px solid #ddd0b6;border-radius:10px;padding:14px;display:flex;align-items:center;justify-content:center;height:400px;box-shadow:0 3px 14px rgba(43,33,24,.14)}
+.gal-mat img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;border:5px solid #fff;box-shadow:0 6px 18px rgba(43,33,24,.28);cursor:zoom-in;border-radius:3px;margin:0}
+.gal-item figcaption{padding:10px 6px 0}
+.g-caption{font-weight:700;color:#1f3a52;font-size:.98rem;line-height:1.4}
+.g-source{opacity:.65;font-size:.8rem;font-family:system-ui,sans-serif;margin-top:3px}
+.gal-arrow{position:absolute;top:170px;z-index:5;width:44px;height:44px;border-radius:50%;border:1px solid #ddd0b6;background:#fffdf8;color:#9c4a2f;font-size:1.15rem;cursor:pointer;box-shadow:0 3px 10px rgba(43,33,24,.22);transition:background .15s}
+.gal-arrow:hover{background:#9c4a2f;color:#fff}
+.gal-prev{left:-14px}.gal-next{right:-14px}
+.gal-counter{text-align:center;font-family:system-ui,sans-serif;font-size:.82rem;opacity:.6;margin-bottom:1rem}
+.gal-item.zoomed{position:fixed;inset:0;z-index:99;background:rgba(20,15,10,.95);display:flex;flex-direction:column;justify-content:center;align-items:center;padding:4vh 4vw}
+.gal-item.zoomed .gal-mat{background:transparent;border:none;box-shadow:none;height:auto;max-height:80vh;padding:0}
+.gal-item.zoomed img{max-height:78vh;cursor:zoom-out}
+.gal-item.zoomed figcaption{color:#f0e9df}.gal-item.zoomed .g-caption{color:#f0e9df}
+@media (max-width:700px){.gal-arrow{display:none}.gal-mat{height:300px}}
 </style>
+<script>
+function galStep(d){
+  const t=document.getElementById('gal-track');
+  const w=t.querySelector('.gal-item').getBoundingClientRect().width+20;
+  t.scrollBy({left:d*w,behavior:'smooth'});
+}
+document.getElementById('gal-track').addEventListener('scroll',function(){
+  const t=this,w=t.querySelector('.gal-item').getBoundingClientRect().width+20;
+  document.getElementById('gal-n').textContent=Math.min(Math.round(t.scrollLeft/w)+1,{{ len site.Data.gallery.photos }});
+},{passive:true});
+</script>
