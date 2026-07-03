@@ -5,7 +5,7 @@ desc: "The man who built the modern tribe: soldier, plaintiff, founder, chief �
 weight: 10
 ---
 
-![Chief Harold "Buster" Hatcher — official tribal portrait](/exhibits/gallery/chief-hatcher-portrait.jpg)
+![Chief Hatcher before the seal of the People of the Waccamaw — fur turban and eagle feather](/exhibits/gallery/hatcher-2021-logo.jpg)
 
 **Harold "Buster" Hatcher** founded the modern Waccamaw Indian People and led it for
 more than three decades — from a living-room organization to South Carolina's first
