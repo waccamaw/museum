@@ -43,6 +43,11 @@ began the recognition campaign he would work "with every governor from Carroll
 Campbell on down," ending on **February 17, 2005**, when the Waccamaw became the
 first tribe recognized by the State of South Carolina.
 
+Of the long fight simply to be *counted*, he had a line his family still repeats:
+*"Finally, we can be something more than Other."* For generations a Waccamaw filling
+out an official form had found only one box that fit — and being recorded, by name,
+as Native American was its own quiet victory.
+
 ## The chief (1992–2026)
 
 Under his chieftaincy the tribe wrote **three constitutions** (2000, 2008/09, 2016),
@@ -66,6 +71,7 @@ the title for life: *with privilege, without authority.* He signs **"Chief Retir
 
 *Sources: the tribe's governance archive (constitutions, resolutions, succession
 record); CCU "Waccamaw Voices" oral history (2021); Center for Cultural Preservation
-oral history (2014); SCETV (2015); the resignation letter (2026). Hear him:
+oral history (2014); SCETV (2015); the resignation letter (2026); family oral account
+(Doug Hatcher, 2026). Hear him:
 [Waccamaw Voices](/exhibits/waccamaw-voices/) · see him:
 [Photo Gallery](/exhibits/photo-gallery/).*
