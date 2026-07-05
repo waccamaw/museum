@@ -57,10 +57,22 @@ From the chief's 2014 oral history, a register of tradition as lived practice:
   it doesn't matter how far away from the anvil it flies. It's always a piece of God,
   nature."*
 
+## Where they come from
+
+The modern Waccamaw grew from the **Dimery Settlement** — 300 acres near Dog Bluff,
+bought back in 1813 by John and Elizabeth Dimery, and held for a century by a handful
+of families who were, in the era's cruel phrase, "neither Black nor White."
+→ [The Dimery Settlement](/exhibits/the-dimery-settlement/)
+
 ## "We Are Still Here"
 
 The tribe continues to pursue **federal recognition** and to share its story publicly. A phrase the community uses to sum up its spirit: *#WeAreStillHere.*
 
 ---
 
-*This exhibit is drawn entirely from the Waccamaw Indian People's own public website, [waccamaw.org](https://waccamaw.org/), including its home / About page and public news posts. A fuller history is being assembled in partnership with the tribe.*
+*This exhibit draws on the Waccamaw Indian People's own public website,
+[waccamaw.org](https://waccamaw.org/), and on Coastal Carolina University's
+[Waccamaw: Past, Present, Future](/exhibits/past-present-future/) project. A fuller
+history is being assembled in partnership with the tribe. See also
+[The Dimery Settlement](/exhibits/the-dimery-settlement/) and
+[The Long Fight](/exhibits/the-long-fight/).*

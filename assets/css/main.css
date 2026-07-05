@@ -158,3 +158,12 @@ footer.site a{color:var(--ochre)}
   .feature-card{grid-template-columns:1fr;gap:1.5rem;padding:1.6rem}
   .feature-photo img{max-width:230px;margin:0 auto}
 }
+.voice-teaser{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem 1.6rem;
+  margin-top:1.2rem;padding:1.15rem 1.7rem;border-radius:13px;text-decoration:none;
+  background:linear-gradient(120deg,#16283a,#1f3a52);color:#f0e9df;
+  box-shadow:0 10px 26px -18px rgba(0,0,0,.6);transition:filter .18s}
+.voice-teaser:hover{filter:brightness(1.13);text-decoration:none;color:#fff}
+.voice-teaser .vt-quote{flex:1;min-width:260px;font-style:italic;font-size:1.1rem;line-height:1.5;color:#eaded0}
+.voice-teaser .vt-cta{font-family:var(--sans);font-size:.8rem;font-weight:700;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ochre);white-space:nowrap}
+@media (max-width:600px){.voice-teaser{flex-direction:column;align-items:flex-start;gap:.6rem}}
