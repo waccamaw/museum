@@ -20,5 +20,21 @@ from the original scans, documents, and recordings by the tribe's web team.
   exhibits are its cleared, public surface — and as more records are cleared, the
   museum grows.
 
+## What that looks like
+
+Take one act in the tribe's record. It was ratified with its number **corrected by
+hand on the page — 69 struck through, 70 written above.** The archive keeps the scan,
+the transcribed text, and a cryptographic fingerprint of the original, so the
+correction is never smoothed away — it *is* the record of a small government catching
+its own mistake in the moment.
+
+Every record also carries a plain verdict — **verified**, **needs a human eye**, or
+**unverified** — and the museum only speaks in the confident voice where the record
+earns it. When something isn't ready, it waits. That is why you will *not* yet find a
+current officer roster here, or certain cultural and language material: those records
+are real and held in the tribe's own archive, but they have not passed the Council and
+Elders' clearance — so the museum holds them rather than guess. The honesty is part of
+the exhibit.
+
 *The exhibits are curated from the records, not authored as the Tribe's official
 history — that telling belongs to the Council, the Elders, and the storyteller.*

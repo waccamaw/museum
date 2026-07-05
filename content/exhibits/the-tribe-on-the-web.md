@@ -10,6 +10,17 @@ weight: 60
 
 A tribe's website is its embassy. This museum preserves **every recoverable
 incarnation** of the Waccamaw's — browsable as living snapshots, not screenshots.
+Click any incarnation to walk through the site as it was:
+
+<div class="web-thumbs">
+  <a class="web-thumb" href="/sites/waccamaw-us-2004/"><img src="/exhibits/thumbs/waccamaw-us-2004.jpg" alt="waccamaw.us, 2004"><span class="wt-cap"><span class="wt-year">2004</span> <span class="wt-name">waccamaw.us</span></span></a>
+  <a class="web-thumb" href="/sites/waccamaw-us-2008/"><img src="/exhibits/thumbs/waccamaw-us-2008.jpg" alt="waccamaw.us, 2008 — Walk easy on Mother Earth"><span class="wt-cap"><span class="wt-year">2008</span> <span class="wt-name">"Walk easy…"</span></span></a>
+  <a class="web-thumb" href="/sites/waccamawindians-us-2011/"><img src="/exhibits/thumbs/waccamawindians-us-2011.jpg" alt="waccamawindians.us, 2011"><span class="wt-cap"><span class="wt-year">2011</span> <span class="wt-name">waccamawindians.us</span></span></a>
+  <a class="web-thumb" href="/sites/waccamaw-org-2013/"><img src="/exhibits/thumbs/waccamaw-org-2013.jpg" alt="waccamaw.org, 2013"><span class="wt-cap"><span class="wt-year">2013</span> <span class="wt-name">waccamaw.org</span></span></a>
+  <a class="web-thumb" href="/sites/waccamaw-org-2016/"><img src="/exhibits/thumbs/waccamaw-org-2016.jpg" alt="waccamaw.org, 2016"><span class="wt-cap"><span class="wt-year">2016</span> <span class="wt-name">waccamaw.org</span></span></a>
+  <a class="web-thumb" href="/sites/waccamaw-org-2020/"><img src="/exhibits/thumbs/waccamaw-org-2020.jpg" alt="waccamaw.org, 2020"><span class="wt-cap"><span class="wt-year">2020</span> <span class="wt-name">waccamaw.org</span></span></a>
+  <a class="web-thumb" href="/sites/waccamaw-org-2023/"><img src="/exhibits/thumbs/waccamaw-org-2023.jpg" alt="waccamaw.org, 2023"><span class="wt-cap"><span class="wt-year">2023</span> <span class="wt-name">waccamaw.org</span></span></a>
+</div>
 
 **2004 — waccamaw.us.** The tribe's first site: a hand-coded frameset — *"Waccamaw
 Indian People Tribal Website"* — Home, News Letters, Forums, About, Contact. Built the

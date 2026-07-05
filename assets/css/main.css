@@ -167,3 +167,12 @@ footer.site a{color:var(--ochre)}
 .voice-teaser .vt-cta{font-family:var(--sans);font-size:.8rem;font-weight:700;letter-spacing:.09em;
   text-transform:uppercase;color:var(--ochre);white-space:nowrap}
 @media (max-width:600px){.voice-teaser{flex-direction:column;align-items:flex-start;gap:.6rem}}
+
+/* ---------- web-history thumbnails ---------- */
+.web-thumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:1.1rem;margin:1.4rem 0 2rem}
+.web-thumb{display:block;text-decoration:none;color:inherit;border:1px solid var(--border);border-radius:10px;overflow:hidden;background:var(--surface);transition:border-color .18s,transform .18s,box-shadow .18s}
+.web-thumb:hover{border-color:var(--ochre);transform:translateY(-3px);box-shadow:0 14px 28px -18px rgba(122,69,19,.45);text-decoration:none}
+.web-thumb img{width:100%;aspect-ratio:640/384;object-fit:cover;object-position:top center;display:block;border:0;border-radius:0;box-shadow:none;margin:0}
+.web-thumb .wt-cap{display:block;padding:.55rem .7rem}
+.web-thumb .wt-year{font-family:var(--sans);font-weight:800;color:var(--navy);font-size:.9rem}
+.web-thumb .wt-name{font-family:var(--mono);font-size:.74rem;color:var(--muted)}
