@@ -34,12 +34,36 @@
   <div class="hb-item"><div class="hb-year">2026</div><div class="hb-text">Chief Hatcher retires; Chief Sievers-Cail succeeds</div></div>
 </div>
 
+<section class="feature" id="featured">
+  <div class="era-head"><span class="era-dot"></span><span class="era-label">Featured Exhibit · The Founder's Life</span></div>
+  <div class="feature-card">
+    <div class="feature-photo">
+      <img src="/exhibits/gallery/hatcher-2021-logo.jpg" alt="Chief Harold 'Buster' Hatcher before the seal of the People of the Waccamaw, in a fur turban and eagle feather">
+      <span class="feature-photo-cap">Chief Harold "Buster" Hatcher</span>
+    </div>
+    <div class="feature-body">
+      <div class="feature-eyebrow">Soldier · Businessman · Plaintiff · Founding Chief</div>
+      <h2>The man who built the modern tribe</h2>
+      <p class="feature-lede">Told by the State of South Carolina that there were <em>no Indians</em> here, he sued — and won. Out of that refusal he built a people: a Vietnam combat veteran and Chief Warrant Officer who came home, was denied a minority-business registration because his nation "didn't exist," and spent the next three decades making the state, and the country, admit that the Waccamaw were still here.</p>
+      <ul class="feature-facts">
+        <li><strong>The soldier.</strong> Twenty years in the U.S. Army — 82nd Airborne, Vietnam — awarded the Bronze Star and the Purple Heart; retired a Chief Warrant Officer (WO&#8209;3) in 1988. His service is preserved in the Library of Congress Veterans History Project.</li>
+        <li><strong>The founder.</strong> In 1992 he chartered the modern Waccamaw Indian People. On February&nbsp;17,&nbsp;2005 they became the first tribe recognized by the State of South Carolina.</li>
+        <li><strong>The civil-rights leader.</strong> He changed state law so a Native chief could perform a legal marriage, traded Columbus Day for Indigenous Peoples' Day in Myrtle Beach, and fought to bring more than 600 ancestral remains home from museum shelves.</li>
+      </ul>
+      <div class="feature-ctas">
+        <a class="btn" href="/exhibits/chief-hatcher/">His full life story &rarr;</a>
+        <a class="btn ghost" href="/exhibits/chief-hatcher/#sources">The research &amp; sources</a>
+      </div>
+    </div>
+  </div>
+</section>
+
 <div class="timeline">
 
 <section class="era">
 <div class="era-head"><span class="era-dot"></span><span class="era-label">The Pillars</span></div>
 <div class="projects-grid">
-{{ range where site.RegularPages "Section" "exhibits" }}{{ if le (.Params.weight | default 999) 22 }}
+{{ range where site.RegularPages "Section" "exhibits" }}{{ if and (le (.Params.weight | default 999) 22) (ne .File.BaseFileName "chief-hatcher") }}
 <a href="{{ .RelPermalink }}" class="card">
   <div class="card-body">
     <h3>{{ .Title }}</h3>

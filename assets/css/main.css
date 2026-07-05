@@ -127,3 +127,34 @@ footer.site a{color:var(--ochre)}
 .btn.ghost-light{background:transparent;color:#f0e9df;border:1.5px solid rgba(240,233,223,.55);box-shadow:none}
 .btn.ghost-light:hover{background:rgba(240,233,223,.14);color:#fff;border-color:#fff}
 @media (max-width:760px){.tribute{padding:3rem 1.2rem}.tribute-inner{gap:1.8rem}.tribute-photo img{margin:0 auto}}
+
+/* ---------- featured exhibit (the founder's life) ---------- */
+.feature{margin:2.4rem 0 3rem}
+.feature-card{
+  display:grid;grid-template-columns:300px 1fr;gap:2.4rem;align-items:start;
+  background:linear-gradient(180deg,var(--surface),var(--bg-deep));
+  border:1px solid var(--border);border-radius:16px;padding:2.2rem;
+  box-shadow:0 18px 40px -26px rgba(43,33,24,.5);position:relative;overflow:hidden;
+}
+.feature-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;
+  background:linear-gradient(90deg,var(--navy),var(--ochre),var(--clay))}
+.feature-photo{text-align:center}
+.feature-photo img{width:100%;max-width:300px;border-radius:9px;border:7px solid #fff;
+  box-shadow:0 12px 34px rgba(43,33,24,.32);transform:rotate(-1deg);display:block}
+.feature-photo-cap{display:block;margin-top:.9rem;font-family:var(--sans);font-size:.78rem;
+  letter-spacing:.06em;color:var(--muted);font-weight:600}
+.feature-eyebrow{font-family:var(--sans);font-size:.74rem;font-weight:700;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--ochre);margin-bottom:.5rem}
+.feature-body h2{font-size:clamp(1.6rem,3.6vw,2.2rem);color:var(--navy);line-height:1.14;margin-bottom:.9rem}
+.feature-lede{font-size:1.12rem;line-height:1.66;color:var(--text);margin-bottom:1.3rem}
+.feature-lede em{color:var(--clay);font-style:italic}
+.feature-facts{list-style:none;margin:0 0 1.5rem;padding:0;display:grid;gap:.75rem}
+.feature-facts li{position:relative;padding-left:1.4rem;font-size:.98rem;color:var(--muted);line-height:1.55}
+.feature-facts li::before{content:"";position:absolute;left:0;top:.55em;width:9px;height:9px;
+  border-radius:50%;background:var(--ochre);box-shadow:0 0 0 3px rgba(200,150,62,.2)}
+.feature-facts strong{color:var(--navy)}
+.feature-ctas .btn{margin:.2rem .55rem .2rem 0}
+@media (max-width:760px){
+  .feature-card{grid-template-columns:1fr;gap:1.5rem;padding:1.6rem}
+  .feature-photo img{max-width:230px;margin:0 auto}
+}
