@@ -124,6 +124,8 @@ in 1988.*
 
 ## The people
 
+![Waccamaw Chief Harold Hatcher standing at his father's grave, 1994 — the earliest independent record of him as Chief](/exhibits/gallery/1994-crediford-fathers-grave.jpg)
+
 *Ask him who the Waccamaw were and he'd start two centuries back, at the settlement.*
 
 > "The Waccamaw people came from what is now known as the Dimery Settlement … a
