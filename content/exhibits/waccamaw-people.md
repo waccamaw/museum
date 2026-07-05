@@ -57,6 +57,14 @@ From the chief's 2014 oral history, a register of tradition as lived practice:
   it doesn't matter how far away from the anvil it flies. It's always a piece of God,
   nature."*
 
+## Among the nations
+
+The Waccamaw do not stand alone. The tribe is a party to a **Treaty Alliance of South
+Carolina Native nations**, and it acts in solidarity with other tribes — in 2026, for
+instance, Chief Hatcher composed a **letter of support for the Schaghticoke Tribal
+Nation.** Recognition, and the long fight for it, is a burden the region's Native
+nations carry together.
+
 ## Where they come from
 
 The modern Waccamaw grew from the **Dimery Settlement** — 300 acres near Dog Bluff,

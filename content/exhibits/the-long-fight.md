@@ -106,7 +106,8 @@ anymore.**"* He wears a choker.
 
 And the wins keep accruing: **Indigenous Peoples' Day** now stands where Columbus Day
 stood in Myrtle Beach and Conway — argued for, like everything else here, one meeting
-at a time.
+at a time. The fight's last chapter — [federal recognition](/exhibits/federal-recognition/) —
+is unfinished, and now belongs to [the tribe today](/exhibits/the-tribe-today/).
 
 *Sources: Center for Cultural Preservation oral history (David Weintraub, 2014,
 saveculture.org); CCU "Waccamaw Voices" (2021); recognition record in the governance
