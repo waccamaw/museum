@@ -1,6 +1,10 @@
 ---
 title: "The Tribe Today — Chief Cheryl Sievers-Cail"
 meta: "Pillar exhibit · the present tense — the Sievers-Cail administration, 2026 →"
+related:
+  - /exhibits/federal-recognition
+  - /exhibits/self-government
+  - /exhibits/waccamaw-voices
 desc: "The story did not end with Chief Hatcher's retirement. On June 29, 2026 the chieftaincy passed to Cheryl Sievers-Cail — and the People carry on."
 weight: 12
 ---
@@ -63,6 +67,4 @@ it is the plainest true thing the museum can end on:
 Article VII of the 2016 Constitution; Coastal Carolina University's "Waccamaw Voices"
 oral history with Vice Chief Cheryl Cail (2021). The full sitting officer slate is
 maintained in the tribe's own records and is not reproduced here pending Council
-confirmation. See also [Chief Hatcher's story](/exhibits/chief-hatcher/),
-[Self-Government](/exhibits/self-government/), and
-[Waccamaw Voices](/exhibits/waccamaw-voices/).*
+confirmation.*

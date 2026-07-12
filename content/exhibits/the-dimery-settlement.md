@@ -1,6 +1,10 @@
 ---
 title: "The Dimery Settlement"
 meta: "Pillar exhibit · the origin place — Dog Bluff, Horry County, 1813 to today"
+related:
+  - /exhibits/waccamaw-people
+  - /exhibits/the-long-fight
+  - /exhibits/past-present-future
 desc: "Where the modern Waccamaw come from: 300 acres bought back in 1813, a farming community of families 'neither Black nor White,' its own church and school — and the Jim Crow schoolhouse fight that ran in the family blood."
 weight: 19
 ---

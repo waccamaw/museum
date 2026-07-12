@@ -1,6 +1,11 @@
 ---
 title: "Federal Recognition — the unfinished fight"
 meta: "Hall exhibit · state-recognized since 2005, still not federal — and what that costs"
+support: true
+related:
+  - /exhibits/the-long-fight
+  - /exhibits/chief-hatcher
+  - /exhibits/the-tribe-today
 desc: "South Carolina recognized the Waccamaw in 2005. The United States has not. What that distinction means — for a bill in Congress, for a burial, for 600 ancestors on museum shelves."
 weight: 23
 ---
@@ -67,5 +72,4 @@ He did not see it. The work now belongs to
 *Sources: Coastal Carolina University's "Waccamaw: Past, Present, Future" project (on
 NAGPRA and H.R. 1942); WMBF, WBTW, and MyHorryNews reporting (2018–2023); the tribe's
 2022 federal recognition petition; and the documentary "The Right to Bury Our Own"
-(2025). See also [The Long Fight](/exhibits/the-long-fight/) and
-[Chief Hatcher's story](/exhibits/chief-hatcher/).*
+(2025).*

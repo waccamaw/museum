@@ -1,6 +1,10 @@
 ---
 title: "Waccamaw: Past, Present, Future"
 meta: "The commissioned exhibit · Coastal Carolina University × the Waccamaw Indian People, 2021–2024"
+related:
+  - /exhibits/the-dimery-settlement
+  - /exhibits/the-long-fight
+  - /exhibits/waccamaw-people
 desc: "The award-winning CCU collaboration — a Horry County Museum exhibit, a 3-D walkthrough, oral histories, and an interpretive trail at the Tribal Grounds — that told the People's story from the deep past to the fight ahead."
 weight: 21
 live_url: "https://waccamawpastpresentfuture.com"
@@ -73,5 +77,4 @@ remains unfinished. As one member put it:
 *The full project, including the 3-D walkthrough, the oral-history audio, and the
 interpretive-trail map, lives at **[waccamawpastpresentfuture.com](https://waccamawpastpresentfuture.com)**
 — a Coastal Carolina University public-history project with the Waccamaw Indian
-People (2021–2024). See also [The Dimery Settlement](/exhibits/the-dimery-settlement/),
-[The Long Fight](/exhibits/the-long-fight/), and [Waccamaw Voices](/exhibits/waccamaw-voices/).*
+People (2021–2024).*

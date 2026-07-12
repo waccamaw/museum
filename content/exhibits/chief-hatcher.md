@@ -1,6 +1,11 @@
 ---
 title: "Chief Harold 'Buster' Hatcher"
 meta: "Featured exhibit · the founder's life — a segregated schoolhouse to the chieftaincy, 1949–2026"
+related:
+  - /exhibits/in-his-own-words
+  - /exhibits/the-long-fight
+  - /exhibits/waccamaw-voices
+  - /exhibits/photo-gallery
 desc: "Soldier, businessman, plaintiff, founding chief — the man who was told there were no Indians in South Carolina, and proved the state wrong."
 weight: 10
 ---
@@ -205,6 +210,3 @@ the **Bronze Star** and the **Purple Heart**), and treats family recollection as
 family recollection. His claims of national civil-rights work — the coalition of
 tribes, the briefing of a president — are reported here as Coastal Carolina
 University reported them.
-
-*Hear him: [Waccamaw Voices](/exhibits/waccamaw-voices/) ·
-see him: [Photo Gallery](/exhibits/photo-gallery/).*

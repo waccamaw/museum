@@ -1,6 +1,10 @@
 ---
 title: "Self-Government"
 meta: "Three constitutions · three branches · the machinery of a small sovereign nation"
+related:
+  - /exhibits/the-tribe-today
+  - /exhibits/federal-recognition
+  - /exhibits/about-this-museum
 desc: "How the Waccamaw govern themselves — the constitutions, the branches, and the safeguards."
 weight: 50
 ---

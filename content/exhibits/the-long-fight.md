@@ -1,6 +1,10 @@
 ---
 title: "The Long Fight — five generations"
 meta: "Pillar exhibit · 1813 · 1935 · 1988 · 2005 · 2022 — one family, one argument, two centuries"
+related:
+  - /exhibits/federal-recognition
+  - /exhibits/the-dimery-settlement
+  - /exhibits/the-tribe-today
 desc: "From John Dimery buying back his people's land to the federal petition: the same fight, five generations running."
 weight: 20
 ---

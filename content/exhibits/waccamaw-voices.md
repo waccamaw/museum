@@ -1,6 +1,10 @@
 ---
 title: "Waccamaw Voices — recordings & film"
 meta: "Oral histories, television, and film — the People on tape, 2015–2026"
+related:
+  - /exhibits/in-his-own-words
+  - /exhibits/chief-hatcher
+  - /exhibits/photo-gallery
 desc: "The People in their own voices — oral-history interviews, preserved and transcribed."
 weight: 22
 ---

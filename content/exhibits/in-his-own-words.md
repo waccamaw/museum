@@ -1,6 +1,10 @@
 ---
 title: "In His Own Words — Chief Hatcher"
 meta: "The chief's voice — from his memoir, recorded oral histories, broadcasts, and his last letter"
+related:
+  - /exhibits/chief-hatcher
+  - /exhibits/waccamaw-voices
+  - /exhibits/photo-gallery
 desc: "What Harold 'Buster' Hatcher actually said — the boyhood, the war, the people, the fight, and the goodbye, in his own words."
 weight: 11
 ---

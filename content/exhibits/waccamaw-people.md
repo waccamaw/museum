@@ -1,6 +1,10 @@
 ---
 title: "The Waccamaw Indian People"
 meta: "History & community · 300 years at Dog Bluff — and a culture kept by law"
+related:
+  - /exhibits/the-dimery-settlement
+  - /exhibits/self-government
+  - /exhibits/past-present-future
 desc: "The People: the settlement, the living culture, and the traditions written into tribal law."
 weight: 40
 ---

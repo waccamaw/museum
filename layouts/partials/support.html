@@ -1,0 +1,37 @@
+{{- /* Recognition call-to-action band. Pass (dict "recognition" true) on the federal-recognition
+       exhibit to drop the self-referential "read the fight" link. Zeffy campaign reused from
+       waccamaw.org; donate links to the hosted form (no embed script dependency). */ -}}
+<section class="support-band" id="support">
+  <div class="support-inner">
+    <div class="support-grid">
+      <div class="support-main">
+        <div class="support-eyebrow">The unfinished fight</div>
+        <h2 class="support-h">Support Waccamaw federal recognition</h2>
+        <p class="support-copy">Chief Hatcher gave his life to one unfinished fight: the United States has still
+          never recognized the Waccamaw Indian People. That gap keeps the tribe's sovereignty incomplete — and its
+          ancestors on museum shelves. It now belongs to all of us.</p>
+        <div class="support-stats">
+          <div class="support-stat"><span class="ss-num">2005</span><span class="ss-lab">State-recognized</span></div>
+          <div class="support-stat"><span class="ss-num">Not&nbsp;yet</span><span class="ss-lab">Federally recognized</span></div>
+          <div class="support-stat"><span class="ss-num">600+</span><span class="ss-lab">Ancestors still held</span></div>
+        </div>
+      </div>
+      <div class="support-aside">
+        <div class="support-thermo">
+          <div class="support-thermo-label">Help fund the fight</div>
+          <iframe title="Donation progress, powered by Zeffy" loading="lazy"
+            src="https://www.zeffy.com/embed/thermometer/make-a-difference-in-the-lives-of-indigenous-people-in-sc"
+            allowtransparency="true"></iframe>
+        </div>
+        <div class="support-ctas">
+          <a class="btn support-donate" href="https://www.zeffy.com/en-US/donation-form/make-a-difference-in-the-lives-of-indigenous-people-in-sc" target="_blank" rel="noopener">Donate to the tribe</a>
+          <a class="btn support-ghost" href="https://www.house.gov/representatives/find-your-representative" target="_blank" rel="noopener">Urge Congress to act</a>
+          {{ if not .recognition }}<a class="btn support-ghost" href="/exhibits/federal-recognition/">Read the unfinished fight &rarr;</a>{{ end }}
+        </div>
+      </div>
+    </div>
+    <p class="support-note">Donations are processed by <strong>Zeffy</strong> for the Waccamaw Indian People.
+      Or <a href="https://www.house.gov/representatives/find-your-representative" target="_blank" rel="noopener">contact your representatives</a>
+      and ask them to support Waccamaw federal recognition.</p>
+  </div>
+</section>

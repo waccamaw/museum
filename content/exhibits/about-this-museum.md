@@ -1,6 +1,10 @@
 ---
 title: "About this museum"
 meta: "How these exhibits are made — primary records, verified, cited"
+related:
+  - /exhibits/the-tribe-on-the-web
+  - /exhibits/self-government
+  - /exhibits/waccamaw-people
 desc: "The method: a verified archive of the tribe's own documents behind every exhibit."
 weight: 90
 ---

@@ -9,6 +9,22 @@
    style="display:inline-block;margin:14px 0 4px;padding:11px 20px;background:#810303;color:#fff;border-radius:9px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,.25)">&#9654;&nbsp; Open the rebuilt site</a>
 {{ end }}
 {{ .Content }}
+{{ with .Params.related }}
+<nav class="see-also" aria-label="See also">
+<div class="see-also-label">Continue exploring</div>
+<ul class="see-also-grid">
+{{ range . }}
+{{ with $.Site.GetPage . }}
+<li><a class="see-also-card" href="{{ .RelPermalink }}">
+<span class="sa-title">{{ .Title }}</span>
+{{ with .Params.meta }}<span class="sa-dek">{{ . }}</span>{{ end }}
+</a></li>
+{{ end }}
+{{ end }}
+</ul>
+</nav>
+{{ end }}
 </article>
+{{ if .Params.support }}{{ partial "support.html" (dict "recognition" true) }}{{ end }}
 </div>
 {{ end }}

@@ -1,6 +1,10 @@
 ---
 title: "The Tribe on the Web"
 meta: "waccamaw.us → waccamawindians.us → waccamaw.org · every incarnation, preserved and browsable"
+related:
+  - /exhibits/about-this-museum
+  - /exhibits/waccamaw-people
+  - /exhibits/past-present-future
 desc: "Twenty years of the tribe's web presence, self-hosted as living snapshots."
 live_url: "/sites/waccamaw-us-2004/"
 weight: 60

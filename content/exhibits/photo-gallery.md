@@ -1,6 +1,10 @@
 ---
 title: "Photo Gallery — Chief Hatcher"
 meta: "A sourced photographic record, 1994–2026"
+related:
+  - /exhibits/chief-hatcher
+  - /exhibits/waccamaw-voices
+  - /exhibits/in-his-own-words
 desc: "The chief in photographs — every image sourced and credited."
 weight: 13
 ---
