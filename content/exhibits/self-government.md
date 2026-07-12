@@ -72,5 +72,8 @@ Constitutional design is usually studied in nation-states. It's worth seeing wha
 looks like when a community of a few hundred does it for themselves, carefully, for
 a quarter century.
 
-*Sources: Constitution of the Waccamaw Indian People (2016), Art. V–VII, X–XI; the
-2008/09 and 2000 constitutions; HH10072011001; DH01092009001; the governance archive.*
+{{< sources >}}
+- Constitution of the Waccamaw Indian People (2016), Art. V–VII, X–XI
+- The 2008/09 and 2000 constitutions
+- Governance archive: HH10072011001; DH01092009001
+{{< /sources >}}

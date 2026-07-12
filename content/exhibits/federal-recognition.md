@@ -67,9 +67,9 @@ delegation — but the fight is not won.
 He did not see it. The work now belongs to
 [the administration that follows him](/exhibits/the-tribe-today/).
 
----
-
-*Sources: Coastal Carolina University's "Waccamaw: Past, Present, Future" project (on
-NAGPRA and H.R. 1942); WMBF, WBTW, and MyHorryNews reporting (2018–2023); the tribe's
-2022 federal recognition petition; and the documentary "The Right to Bury Our Own"
-(2025).*
+{{< sources >}}
+- Coastal Carolina University's ["Waccamaw: Past, Present, Future"](https://waccamawpastpresentfuture.com) project — on NAGPRA and H.R. 1942
+- WMBF, WBTW, and MyHorryNews reporting (2018–2023)
+- The tribe's 2022 federal recognition petition
+- The documentary *"The Right to Bury Our Own"* (2025)
+{{< /sources >}}

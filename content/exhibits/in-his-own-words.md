@@ -232,13 +232,12 @@ in 1988.*
 > let me know."
 > — *oral history, 2014*
 
----
+{{< sources >}}
+- [Library of Congress, Veterans History Project — Harold Dalton Hatcher Collection](https://www.loc.gov/item/afc2001001.52482/) (memoir in his own hand, AFC/2001/001/52482)
+- [Center for Cultural Preservation](https://saveculture.org/oral-history/chief-harold-buster-hatcher-waccamaw-tribe-of-south-carolina/) oral history (2014)
+- Coastal Carolina University "Waccamaw Voices" oral history (2021 — [listen](/exhibits/waccamaw-voices/))
+- WPDE (2018); MyHorryNews (2021); WBTW (2022)
+- His tribe-wide resignation letter (2026)
 
-*Sources: Library of Congress, Veterans History Project — Harold Dalton Hatcher
-Collection (memoir in his own hand, AFC/2001/001/52482); Center for Cultural
-Preservation oral history (2014); Coastal Carolina University "Waccamaw Voices" oral
-history (2021 — [listen](/exhibits/waccamaw-voices/)); WPDE (2018); MyHorryNews
-(2021); WBTW (2022); and his tribe-wide resignation letter (2026). Interview quotes
-are transcribed from the public recordings; the boyhood passages are verbatim from
-his typewritten memoir, with the racial slur softened and light elisions marked. See
-also [his life story](/exhibits/chief-hatcher/) and the [Photo Gallery](/exhibits/photo-gallery/).*
+Interview quotes are transcribed from the public recordings; the boyhood passages are verbatim from his typewritten memoir, with the racial slur softened and light elisions marked.
+{{< /sources >}}

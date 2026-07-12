@@ -170,27 +170,25 @@ stumble. → [The tribe today](/exhibits/the-tribe-today/)
 
 > "Thank you for allowing me to serve… I did my best for you."
 
----
-
-## Sources
-
+{{< sources >}}
 This exhibit is drawn from Chief Hatcher's own words and from the public record.
 Where the family's memory and the documented record differ, the exhibit follows the
 record and notes the difference.
 
 **In his own words**
 
-- **Library of Congress, Veterans History Project — Harold Dalton Hatcher
-  Collection** (AFC/2001/001/52482): a memoir in his own hand and a 2006
-  oral-history video.
-- **Center for Cultural Preservation** oral history (2014), interviewer David
-  Weintraub.
+- **[Library of Congress, Veterans History Project — Harold Dalton Hatcher
+  Collection](https://www.loc.gov/item/afc2001001.52482/)** (AFC/2001/001/52482): a
+  memoir in his own hand and a 2006 oral-history video.
+- **[Center for Cultural Preservation](https://saveculture.org/oral-history/chief-harold-buster-hatcher-waccamaw-tribe-of-south-carolina/)**
+  oral history (2014), interviewer David Weintraub.
 - **Coastal Carolina University, "Waccamaw Voices"** oral history (2021).
 
 **Broadcast & press**
 
-- **SCETV**, "Meet Harold Hatcher" (2015) and *After Action* veteran profile — the
-  source for the February 17, 2005 state-recognition date.
+- **SCETV**, "[Meet Harold Hatcher](https://www.scetv.org/stories/2015/meet-harold-hatcher-chief-waccamaw-indian-people)"
+  (2015) and *After Action* veteran profile — the source for the February 17, 2005
+  state-recognition date.
 - **WBTW News 13** (2022, 2023); **WPDE**, Jefferson Award (2018); **WMBF** and
   **The Post and Courier**, federal-recognition reporting (2020–2023).
 - **MyHorryNews / Horry Independent** (2018, 2021); **Grand Strand Magazine**,
@@ -210,3 +208,4 @@ the **Bronze Star** and the **Purple Heart**), and treats family recollection as
 family recollection. His claims of national civil-rights work — the coalition of
 tribes, the briefing of a president — are reported here as Coastal Carolina
 University reported them.
+{{< /sources >}}

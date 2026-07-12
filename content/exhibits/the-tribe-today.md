@@ -61,10 +61,9 @@ it is the plainest true thing the museum can end on:
 
 > **#WeAreStillHere.**
 
----
+{{< sources >}}
+- The tribe-wide resignation letter (June 29, 2026) and its succession under Article VII of the 2016 Constitution
+- Coastal Carolina University's "Waccamaw Voices" oral history with Vice Chief Cheryl Cail (2021)
 
-*Sources: the tribe-wide resignation letter (June 29, 2026) and its succession under
-Article VII of the 2016 Constitution; Coastal Carolina University's "Waccamaw Voices"
-oral history with Vice Chief Cheryl Cail (2021). The full sitting officer slate is
-maintained in the tribe's own records and is not reproduced here pending Council
-confirmation.*
+The full sitting officer slate is maintained in the tribe's own records and is not reproduced here pending Council confirmation.
+{{< /sources >}}

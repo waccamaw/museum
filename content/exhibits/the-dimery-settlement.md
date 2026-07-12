@@ -71,12 +71,8 @@ lot of Indians living in and around that area." When the modern tribe organized 
 it was coming home to the same ground John Dimery bought back in 1813 — and the
 **Pauwau** and **Waccamaw Day** are held there still.
 
----
-
-*Sources: Coastal Carolina University's "Waccamaw Indian People: Past, Present,
-Future" project (the Dimery Settlement essay, quoting the* Horry Herald *of April 23,
-1921 and October 18, 1923); the Center for Cultural Preservation oral history with
-Chief Hatcher (2014); and the tribe's governance archive. See also
-[The Long Fight](/exhibits/the-long-fight/),
-[Waccamaw: Past, Present, Future](/exhibits/past-present-future/), and
-[Chief Hatcher's story](/exhibits/chief-hatcher/).*
+{{< sources >}}
+- Coastal Carolina University's ["Waccamaw Indian People: Past, Present, Future"](https://waccamawpastpresentfuture.com) project — the Dimery Settlement essay, quoting the *Horry Herald* of April 23, 1921 and October 18, 1923
+- [Center for Cultural Preservation](https://saveculture.org/oral-history/chief-harold-buster-hatcher-waccamaw-tribe-of-south-carolina/) oral history with Chief Hatcher (2014)
+- The tribe's governance archive
+{{< /sources >}}

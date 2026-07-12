@@ -1,0 +1,7 @@
+{{- /* Structured, scannable citations apparatus — set apart from the body prose.
+       Usage: wrap a markdown bullet list (and optional note paragraphs) in
+       {{< sources >}} ... {{< /sources >}}. */ -}}
+<aside class="exhibit-sources" id="sources">
+<div class="exhibit-sources-label">Sources</div>
+{{ .Inner | markdownify }}
+</aside>

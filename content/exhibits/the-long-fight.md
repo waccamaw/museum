@@ -113,7 +113,9 @@ stood in Myrtle Beach and Conway — argued for, like everything else here, one 
 at a time. The fight's last chapter — [federal recognition](/exhibits/federal-recognition/) —
 is unfinished, and now belongs to [the tribe today](/exhibits/the-tribe-today/).
 
-*Sources: Center for Cultural Preservation oral history (David Weintraub, 2014,
-saveculture.org); CCU "Waccamaw Voices" (2021); recognition record in the governance
-archive (HH080800004, JHH01080022010); 1923 Horry Herald via the CCU Dimery
-Settlement project.*
+{{< sources >}}
+- [Center for Cultural Preservation](https://saveculture.org/oral-history/chief-harold-buster-hatcher-waccamaw-tribe-of-south-carolina/) oral history (David Weintraub, 2014)
+- CCU "Waccamaw Voices" (2021)
+- Recognition record in the governance archive (HH080800004, JHH01080022010)
+- 1923 *Horry Herald* via the CCU Dimery Settlement project
+{{< /sources >}}
