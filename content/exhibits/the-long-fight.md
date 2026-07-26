@@ -1,11 +1,12 @@
 ---
 title: "The Long Fight — five generations"
-meta: "Pillar exhibit · 1813 · 1935 · 1988 · 2005 · 2022 — one family, one argument, two centuries"
+meta: "Pillar exhibit · 1813 · 1935 · 1988 · 2005 · 2018 · 2022 — one family, one argument, two centuries"
 related:
   - /exhibits/federal-recognition
   - /exhibits/the-dimery-settlement
   - /exhibits/the-tribe-today
-desc: "From John Dimery buying back his people's land to the federal petition: the same fight, five generations running."
+  - /exhibits/in-his-own-words
+desc: "From John Dimery buying back his people's land to the letters on a President's desk to the federal petition: the same fight, five generations running."
 weight: 20
 ---
 
@@ -68,6 +69,76 @@ seat on the Minority Affairs advisory committee held by the *retired* chief, let
 to Congress, a federal recognition committee — the quiet machinery a small nation
 builds when the loud part of the fight is won.
 
+**2017 — the fight, typed.** The machinery ran on a typewriter. His papers from
+these years fill with letters — to committee chairmen, to commissioners, to
+colleagues — each one the same two-century argument in administrative dress. When
+the SC House Oversight Committee took up the state Commission for Minority Affairs
+in October 2017, he watched the hearing *"via the Internet"* and mailed the chairman
+his verdict on who should hold the state's definition of "Indian" — and on the
+recognition standard he had spent his life meeting (his spelling and punctuation are
+preserved as typed, here and throughout):
+
+> "While I cannot deny that Indian recognition is evil, it is a necessary evil for
+> those of us who seek to protect and preserve the true Indian Culture of our state.
+> If this control is not monitored and properly administered, non-Indians will be
+> registering companies, gaining earmarked monies, corrupting cultural activities and
+> even the history of the true Indian people of the state."
+> — *letter to the Hon. Weston Newton, Chairman, SC House Oversight Committee, 2017*
+
+> "Simply claiming to be 'recognized' does not make it true."
+
+*And, on his own office:*
+
+> "I am elected as the Chief of the Waccamaw and I take that designation seriously.
+> I will not surrender to the CMA my authority as the Chief and will not blame them
+> until they refuse to help me pursue my goals."
+
+*Around the same time, asked privately what the Commission could actually do for
+Indians, he typed out a whole reform program in a note to a colleague — signed
+simply "Buster":*
+
+> "Indians are the only ethnic group they service that has their own governments. We
+> are elected by our people to do what we think are in the best interest of our
+> people. However, CMA often think themselves supervisors of the Chiefs."
+> — *note on the Commission for Minority Affairs, c. 2017*
+
+> "I have asked for and been denied time to speak on issues that I thought were
+> important to my people. However, I did manage to get it in, anyway."
+
+His fixes were practical down to the dollar: hear the public *before* the vote, not
+after — *"Its too late after the vote"*; keep group leaders off the boards that judge
+rival petitions — *"There should be no group leader sitting on a review board for any
+tribe seeking recognition"*; and pay the poorer chiefs' way to the table, *"$50 or
+so"* for gasoline, because some *"cannot afford to attend … because they cannot
+afford the gasoline."* One committee at a time.
+
+**2018 — a letter to the President.** On June 5, 2018, he took the argument to the
+top — as he had done before. The letterhead changed with the administrations; the
+sentence at the core of it never did:
+
+> "The Native people of this country serve more, per capita, to defend our freedom
+> than any other ethnic group. Our people have died in every conflict fought by this
+> country, to earn and to protect the freedoms of all of its citizens, even including
+> the Revolutionary war.
+>
+> We are the only faction of this country's population that are not immigrants, but
+> we are also the only faction treated as outsiders, even in a country we fight to
+> protect."
+> — *letter to President Donald J. Trump, June 5, 2018*
+
+> "Federal laws deny our people many of the rights and freedoms that even
+> non-citizens enjoy in this country. These denials even include the constitutionally
+> guaranteed right to practice the religion of our choice."
+
+*It was not his first letter to a White House — he had pressed President Clinton on
+the same issues in the 1990s, and he told the new president so:*
+
+> "I ask you to listen to your non-federal Native American citizens, who no one
+> before you, had the guts to hear because of political pressure. … You might
+> remember me from working with President Clinton on the same issues.
+>
+> I await your answer, Mr. President!"
+
 **2022 — the fight continues.** The federal petition is filed. The remains of some
 600 ancestors sit warehoused in institutions, awaiting a recognition that would compel
 their return. The land, the school, the registry, the name, the bones: it has been the
@@ -118,4 +189,7 @@ is unfinished, and now belongs to [the tribe today](/exhibits/the-tribe-today/).
 - CCU "Waccamaw Voices" (2021)
 - Recognition record in the governance archive (HH080800004, JHH01080022010)
 - 1923 *Horry Herald* via the CCU Dimery Settlement project
+- Chief Hatcher's letters and memoranda: to the Hon. Weston Newton, Chairman, SC House Oversight Committee (2017); a note on the Commission for Minority Affairs (undated, c. 2017); and to President Donald J. Trump (June 5, 2018) — private archive of the Hatcher family
+
+Letter quotations are verbatim from his typescripts, spelling and punctuation intact; elisions are marked.
 {{< /sources >}}

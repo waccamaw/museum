@@ -1,6 +1,6 @@
 ---
 title: "In His Own Words — Chief Hatcher"
-meta: "The chief's voice — from his memoir, recorded oral histories, broadcasts, and his last letter"
+meta: "The chief's voice — from his memoirs, recorded oral histories, broadcasts, and his last letter"
 related:
   - /exhibits/chief-hatcher
   - /exhibits/waccamaw-voices
@@ -10,9 +10,10 @@ weight: 11
 ---
 
 Nearly every line below is his — verbatim, from the memoir he typed in his own hand
-for the Library of Congress, from recorded oral-history interviews, from broadcasts,
-and from his last letter to the People. The museum adds only the order, and the
-occasional line of connective tissue in *italics*.
+for the Library of Congress, from a second, private childhood memoir he called
+"Buster's Memory" that his family kept, from recorded oral-history interviews, from
+broadcasts, and from his last letter to the People. The museum adds only the order,
+and the occasional line of connective tissue in *italics*.
 
 ## The name
 
@@ -23,23 +24,109 @@ occasional line of connective tissue in *italics*.
 ## The boy
 
 *He grew up in and around Conway and Myrtle Beach in the 1940s and 50s. He set the
-whole of it down himself, decades later, for the Veterans History Project.*
+whole of it down himself twice — decades later, in the memoir he typed for the
+Veterans History Project, and again in an unfinished private memoir he called
+"Buster's Memory," kept by his family. Both are quoted here exactly as he typed
+them, spelling and all.*
+
+*The first home he could firmly place was a converted pack house on Highway 544
+near the gully in Socastee — no bathroom, no plumbing, and a well in the back yard:*
+
+> "There was a pail tied to a rope and we used it to lift the water to the top of
+> the wall. I remember the pail dropping on the water in the well upright and I'd
+> have to shake the rope to make the bucket sink. I also remember the water was
+> cloudy but that is what we used for cooking, washing and drinking."
+> — *"Buster's Memory," private archive of the Hatcher family*
+
+> "There was a ditch running by the road that went by the house and in that ditch
+> there were crawfish. Some adult told me that if minnows and other things lived in
+> the water it was good water or they would die. So, I would catch them and drop
+> them in the well. I was thinking I was doing a good thing because they would make
+> the water good. Kid logic, I suppose!"
+
+*The family rode out Hurricane Hazel in that house — and it was Hazel, a lifetime
+later, that let him date his own earliest years:*
+
+> "I also remember staying in that old house through Hurricane Hazel. Mama put all
+> of us in a bed and told us to go to sleep."
+
+> "I remember Hurricane Hazel and so, I goggled the hurricane to find out when it
+> came through so I could find out how old I was when we lived there. Hazel
+> happened in October of 1954, and I was born in May of 1949 so I was five years
+> and six months old when Hazel hit."
+
+*It was in that house that he remembered his first treasure — and losing it:*
+
+> "It was here that I started to remember the doll clown. It was a doll of a court
+> jester with the fingered hat and polka doted clothes. I don't remember how I came
+> to have it but I do remember that it was my most valued possession."
+
+> "It was like a security blanket and kinda like my best friend. But for reasons I
+> don't recall or maybe I never knew, my dad took it away from me and told me that
+> boys didn't play with dolls."
+
+*Home was a place with no box for him — in either memoir:*
 
 > "My family lived mostly in black neighborhoods. That caused problems, but we had
 > nothing to compare our lives to, so as far as we knew, everybody lived the same
 > way. When I was six, I was enrolled in a white elementary school."
+> — *Veterans History Project memoir*
+
+> "I never understood why we looked different than most of the others. We lived in
+> the Black neighborhoods but we were not really welcome there. Although we lived
+> in those neighborhoods, I don't remember a single friend who lived among us. I do
+> remember, however being called 'cracker' and 'whitee'. I wasn't sure what they
+> were but I knew it wasn't good. I was afraid of people then and I would just
+> ignore it or run from it."
+> — *"Buster's Memory"*
+
+*School was worse:*
 
 > "The teacher kept asking me if my mom ever washed me or my clothes. She asked me
 > if we had any soap at my house and I told her 'no.' … The next day she [gave] me a
 > bar of soap to take to my mom."
+> — *Veterans History Project memoir*
 
 > "There was only one water fountain in the school. On one of the first days I was
 > there, I went and tried to get a drink. I was manhandled about it and told my water
 > was outside. I started going to the hose outside to drink."
 
-*Content note: the next passage recounts a racist attack he suffered as a child and,
-in his own regretful words, what he said back. The slur is his memoir's, softened
-here.*
+*Content note: the passages that follow recount racist attacks he suffered as a
+child and, in his own regretful words, what he said back — twice. The slur is his
+memoirs', softened here. He carried the regret for the rest of his life, and set it
+down both times he wrote his childhood.*
+
+*In "Buster's Memory" he wrote out the schoolyard scene the Library of Congress
+memoir only gestures at — a bigger boy blocking his way off the bus, in front of
+adults who did nothing:*
+
+> "I don't, till this day, know who he was and I don't recall ever seeing him again
+> but I will never forget what he did. He pressed right up against me and put his
+> hand over my face and said, 'This ain't a [n——] School'. Then he pushed my head
+> back with his hand causing me to drop my books."
+> — *"Buster's Memory"*
+
+> "I was afraid of him and didn't know what to do. I answered him with words I will
+> always regret because now that I am older and wiser, my words back to him
+> indicated that I was no different than he was. I picked up my books and I said to
+> him 'I ain't no [n——]'."
+
+> "What I said was true but not for the right reasons. In my mind, I was as
+> ignorant as he was. In my mind, it was Ok to treat black people like that but not
+> me because I wasn't black. What I was saying really was 'I am not black'. I will
+> always wish I had said, 'then why are you here you ignorant son of a bitch' but I
+> didn't."
+
+> "Ay any rate, he just pushed me again and said, 'you are a [n——] and you don't
+> belong here'. I remember looking for an adult to tell me what to do but of the
+> two adults there neither said nor did anything, so, I just left. I walked back
+> home from the school."
+
+*The walk home from that school passed a diner:*
+
+> "There was a diner on the road called Inez's Diner. It was a black lady who owned
+> it and a very nice lady."
+> — *Veterans History Project memoir*
 
 > "One of them … threw an apple at me over the top of the car. It hit me in the side
 > of the face and it hurt. They were yelling at me 'Get out of the road, [n——].' I
@@ -234,10 +321,11 @@ in 1988.*
 
 {{< sources >}}
 - [Library of Congress, Veterans History Project — Harold Dalton Hatcher Collection](https://www.loc.gov/item/afc2001001.52482/) (memoir in his own hand, AFC/2001/001/52482)
+- "Buster's Memory" — an unfinished private childhood memoir in his own hand, undated; private archive of the Hatcher family
 - [Center for Cultural Preservation](https://saveculture.org/oral-history/chief-harold-buster-hatcher-waccamaw-tribe-of-south-carolina/) oral history (2014)
 - Coastal Carolina University "Waccamaw Voices" oral history (2021 — [listen](/exhibits/waccamaw-voices/))
 - WPDE (2018); MyHorryNews (2021); WBTW (2022)
 - His tribe-wide resignation letter (2026)
 
-Interview quotes are transcribed from the public recordings; the boyhood passages are verbatim from his typewritten memoir, with the racial slur softened and light elisions marked.
+Interview quotes are transcribed from the public recordings; the boyhood passages are verbatim from his two typewritten memoirs — his spelling preserved — with the racial slur softened and light elisions marked.
 {{< /sources >}}
