@@ -56,7 +56,7 @@ the signature blocks of the tribe's own resolutions:
 | 2007–2008 | **James Webb** *(acting)* |
 | 2008 | **Susan Hayes-Hatcher** |
 | 2009–2026 | **Harold "Buster" Hatcher** *(restored)* |
-| 2026– | **Cheryl Sievers-Cail** |
+| 2026– | **Cheryl Cail** |
 
 ## A record that shows its work
 

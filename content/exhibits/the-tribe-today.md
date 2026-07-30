@@ -1,11 +1,11 @@
 ---
-title: "The Tribe Today — Chief Cheryl Sievers-Cail"
-meta: "Pillar exhibit · the present tense — the Sievers-Cail administration, 2026 →"
+title: "The Tribe Today — Chief Cheryl Cail"
+meta: "Pillar exhibit · the present tense — the Cail administration, 2026 →"
 related:
   - /exhibits/federal-recognition
   - /exhibits/self-government
   - /exhibits/waccamaw-voices
-desc: "The story did not end with Chief Hatcher's retirement. On June 29, 2026 the chieftaincy passed to Cheryl Sievers-Cail — and the People carry on."
+desc: "The story did not end with Chief Hatcher's retirement. On June 29, 2026 the chieftaincy passed to Cheryl Cail — and the People carry on."
 weight: 12
 ---
 
@@ -14,7 +14,7 @@ weight: 12
 Every other exhibit in this museum looks back. This one does not. Chief Hatcher built
 a tribe meant to outlast him, and on **June 29, 2026** it did exactly that: the
 chieftaincy passed, cleanly and by the tribe's own law, to **Chief Cheryl
-Sievers-Cail** — and the Waccamaw Indian People carry on.
+Cail** — and the Waccamaw Indian People carry on.
 
 ## A planned succession, not a rupture
 
@@ -27,7 +27,7 @@ lifetime title, and his blessing:
 > "Please give your loyalty to Chief Cail, I believe she will lead ably and honestly."
 > — *Chief Hatcher's resignation letter, June 29, 2026*
 
-## Chief Cheryl Sievers-Cail
+## Chief Cheryl Cail
 
 She did not come to this suddenly. For years she served as **Vice Chief** at Chief
 Hatcher's side, and long before that she had made the same journey home that so many

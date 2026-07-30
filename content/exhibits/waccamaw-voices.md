@@ -25,7 +25,7 @@ through the halls of this museum — start with [In His Own Words](/exhibits/in-
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fuser-475547154%2Fchief-harold-buster-hatcher-interview&color=%23594a38&auto_play=false"></iframe>
 
-## Vice Chief Cheryl Sievers-Cail
+## Vice Chief Cheryl Cail
 
 Recorded five years before she became Chief. The voice of the successor, before the
 succession.

@@ -163,7 +163,7 @@ On **June 29, 2026**, in a letter to the People, he resigned as Chief, having "l
 the tribe for about 30 years." It was a planned handoff, not a rupture — he had
 **stepped back over his final year** to let his Vice Chief lead — so that under
 **Article VII** of the constitution the office passed cleanly to
-**Chief Cheryl Sievers-Cail**, with his blessing. Under **Resolution
+**Chief Cheryl Cail**, with his blessing. Under **Resolution
 SH-08-04-2006-01**, he keeps the title for life — "with privilege but without
 authority" — and signs **"Chief Retired."** The tribe he built carried on without a
 stumble. → [The tribe today](/exhibits/the-tribe-today/)
