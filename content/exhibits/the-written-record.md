@@ -1,6 +1,6 @@
 ---
-title: "The Written Record — 1521 to 1900"
-meta: "Pillar exhibit · four centuries in other people's handwriting"
+title: "The Written Record — 1715 to 1900"
+meta: "Pillar exhibit · two centuries in other people's handwriting"
 related:
   - /exhibits/the-dimery-settlement
   - /exhibits/the-long-fight
@@ -42,15 +42,28 @@ people; and some reference works treat the **Cape Fear** as part of the Waccamaw
 Frontiers," 1775. Library of Congress; public domain. The Waccamaw River runs from the
 North Carolina line to Winyah Bay — the length of the homeland.*
 
-## II. 1716 — peace, out of fear of the Cherokee
+## II. 1715 — six hundred and ten people
 
-The first dated moment in this record is a treaty. *Red Carolinians* (p. 150) records
+The first hard number comes from the colony's own count. A **colonial Carolina census
+in 1715** recorded **four Waccamaw villages with a total of 610 inhabitants**, about
+210 of them men — a figure now carried on the State historical marker at the tribal
+grounds. Independent researchers place the tribe's population near 900 at the start of
+the previous century, before European disease. Other accounts describe six villages in
+the South Carolina area whose names were never written down.
+
+Whatever the exact count, 1715 establishes the thing that matters: a decade before
+Herbert drew his map, the Waccamaw were a populous, multi-village nation that the
+colonial government counted.
+
+## III. 1716 — peace, out of fear of the Cherokee
+
+The first dated moment after the count is a treaty. *Red Carolinians* (p. 150) records
 that on **August 6, 1716**, the "Waccamus" made peace with the settlers — and names
 the reason: they feared the Cherokee. It is a small entry, and it establishes
 something the later fight would turn on. In 1716 the Waccamaw were a political body,
 dealing with a colonial government, making a decision and keeping it.
 
-## III. 1720 — the Waccamaw War
+## IV. 1720 — the Waccamaw War
 
 Four years later that relationship collapsed. There were trading posts along Winyah
 Bay and the Black River — the **Wineau Factory**, also called the Waccamaw trading
@@ -76,7 +89,7 @@ If the Catawba could not govern them, they had not been absorbed. Some went to t
 Catawba, some to the people later called Croatan, and — this is the tribe's
 position — **some simply stayed.** A people who survived by not being governable.
 
-## IV. 1725 — Herbert's map
+## V. 1725 — Herbert's map
 
 Five years after the war, an English official drew the single most important document
 in this record.
@@ -107,7 +120,7 @@ village sits at or very near the ground that became the Dimery Settlement — an
 the chain of title over that ground shows no mass transfer of population, only
 conveyances within one white family until 1813.
 
-## V. 1755 — the last mention, and then nothing
+## VI. 1755 — the last mention, and then nothing
 
 The Waccamaw appear by name one final time. In **1755**, **John Evans** noted in his
 journal that Cherokee and Natchez raiders had killed some Pee Dees and Waccamaws
@@ -132,7 +145,7 @@ Indians) through paperwork."*
 
 So the people did not vanish in 1755. The word for them did.
 
-## VI. c. 1790s — the land is granted away
+## VII. c. 1790s — the land is granted away
 
 After the Revolution, South Carolina began granting land to settlers. A tract of
 roughly **1,000 acres** — the ground the Waccamaw had lived and hunted on — was
@@ -150,7 +163,7 @@ They were removed. Chief Hatcher, writing for the tribal paper:
 **March 10, 1806** — Josiah Lewis conveys to **William Lewis.** The land stays in the
 family. No one from outside moves onto it.
 
-## VII. December 10, 1813 — bought back
+## VIII. December 10, 1813 — bought back
 
 **William Lewis sells 300 acres to a man named John Dimery.** The deed survives; it is
 the tribe's Exhibit 6, and it is the hinge of the whole history. Land that had been
@@ -185,7 +198,7 @@ he wrote, imply that the present-day Waccamaw descend from persons holding legal
 by about 1800, and it is presumed some of those persons belonged to tribes present at
 contact — *"primarily the historic Waccamaw and Cape Fear."*
 
-## VIII. 1820–1900 — a community in the county's handwriting
+## IX. 1820–1900 — a community in the county's handwriting
 
 From the deed forward the record is continuous, and it is dense. It is also, almost
 entirely, a record of other people trying to decide what these people were.
@@ -248,7 +261,55 @@ notes they were *"for long years the only true blue darkies in the whole of Dog 
 Township."* Read it the other way around: by the county's own reckoning, nearly
 everyone else at Dog Bluff was something else.
 
-## IX. What the record holds
+## X. What outsiders have written
+
+None of the above rests on the tribe's word alone, and the outside record deserves to
+be shown whole — the parts that help and the parts that do not.
+
+**For.** In **2024** the **Horry County Historic Preservation Commission** erected a
+State historical marker at the tribal grounds (Marker 26-34). Its text records the
+tribe's territory "from Lake Waccamaw in N.C. to Winyah Bay," the 1715 colonial census
+of "four Waccamaw villages with a total of 610 inhabitants," the 2004 purchase of the
+grounds, state recognition in 2005, and — in the county's own words — the tribe's
+"historical ties to the Dimery Settlement (3 mi. S), a small community of Native
+families founded in the early 1800s in Dog Bluff Township," which "included churches
+and a public school for Native children." A government body put that on a sign beside
+the road.
+
+**Coastal Carolina University**, the **Horry County Museum** and the tribe together
+produced *Waccamaw Indian People: Past, Present, Future*, a public-history and
+interpretive-trail project that won a **Society for American Archaeology** national
+award for outstanding public archaeology and an honorable mention from the **National
+Council on Public History.** Archaeological field research in the region has been led
+by **Dr. Carolyn Dillian** of CCU's anthropology faculty.
+
+The researcher **Forest Hazel** was engaged in **1994**, under a federal
+Administration for Native Americans grant, to study the Settlement; his article is
+published through the Horry County historical community. **Dr. John Ross** wrote that
+county records imply the present-day Waccamaw descend from persons holding title by
+about 1800, presumed to be of "the historic Waccamaw and Cape Fear." Independent
+researchers documenting a Waccamaw group that left the Carolinas in the 1770s put the
+matter this way: some joined the Catawba and were absorbed — *"Some did but not all."*
+
+**Against.** The **Horry County Historic Resource Survey**, prepared by New South
+Associates for the **South Carolina Department of Archives and History** and the county,
+states that after the 1720 war "the Waccamaws were essentially eradicated, though some
+survivors may have existed as late as 1733 and integrated with tribes further inland."
+That is a state-commissioned document, and it says the tribe ended. It cites Milling —
+the same historian the tribe cites, at a different page.
+
+The same survey **never mentions the Dimery Settlement.** It catalogues houses, barns
+and tobacco barns along Dog Bluff Road, all "Not Eligible," and records no Native
+community there at all. A century of a distinct settlement, with its own church and its
+own school, is simply absent from the county's inventory of its own historic resources.
+
+Both of those facts are part of the record too. The second one is, in its way, the
+whole story of this exhibit: the erasure did not stop in 1850. It is still being
+written into official documents, by people who are not malicious, working from sources
+that were themselves compiled by people who had been instructed not to write the word
+*Indian.*
+
+## XI. What the record holds
 
 Against four centuries of that, one small thing survives from inside the community —
 a memory, recorded in the tribe's petition. One of the tribe's oldest members recalled
@@ -296,4 +357,8 @@ The argument was never wrong. It was early.
 - **U.S. Census Bureau**, [1900 instructions to enumerators](https://www.census.gov/programs-surveys/decennial-census/technical-documentation/questionnaires/1900/1900-instructions.html) — on the removal of the "mulatto" category
 - **25 CFR 83.1** and the 2015 revision of Part 83, [80 FR 37862](https://www.govinfo.gov/content/pkg/FR-2015-07-01/pdf/2015-16193.pdf) — the definition of "historical"
 - *Horry Herald*, 1887, 1921, 1923, 1924; Center for Cultural Preservation oral history with Chief Hatcher (2014)
+- **Waccamaw Tribal Grounds** State historical marker, Marker 26-34, erected 2024 by the Horry County Historic Preservation Commission — [Historical Marker Database](https://www.hmdb.org/m.asp?m=276800)
+- **Coastal Carolina University / Horry County Museum / Waccamaw Indian People**, [*Waccamaw Indian People: Past, Present, Future*](https://waccamawpastpresentfuture.com) — Society for American Archaeology award for outstanding public archaeology
+- **New South Associates**, *Horry County Historic Resource Survey*, prepared for the [South Carolina Department of Archives and History](https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20(SHPO)/Research/HC26001.pdf) and Horry County — cited here for the "essentially eradicated" passage and for its silence on the Dimery Settlement
+- **Don & Diane Wells**, *The Lost Village of the Waccamaw Indians* (2020) — on the 1715 population figures and the group that left the Carolinas in the 1770s
 {{< /sources >}}
