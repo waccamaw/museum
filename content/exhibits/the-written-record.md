@@ -181,11 +181,15 @@ before-mentioned 300 acres, little is known of John Dimery."* He enters history 
 man buying land.
 
 **The fifty-eight years between Evans's journal and John Dimery's deed are the gap in
-this record, and no chain of names will ever close them.** The people who kept the
-memory kept no paper; the people who kept paper were forbidden the word. What the
-tribe argues — and what its petition argues in exactly these terms — is that the
-weight of the evidence points one way: the same people, on the same ground, before and
-after.
+this record, and no chain of names has been found to bridge them.** The people who
+kept the memory kept no paper; the people who kept paper were forbidden the word.
+That is not a failure of the tribe's history. It is the intended result of a policy,
+and it is why the federal standard asks for a *reasonable likelihood* rather than
+proof beyond doubt: the Department is required to "take into account historical
+situations and time periods for which evidence is demonstrably limited or not
+available." This is precisely such a period. What the tribe argues — and what its
+petition argues in exactly these terms — is that the weight of the evidence points one
+way: the same people, on the same ground, before and after.
 
 > "Can the case be made that these Dimerys were the descendants of the old Waccamaw
 > Village? This is very subjective and due the fact that the Indians kept no records,
@@ -283,6 +287,12 @@ award for outstanding public archaeology and an honorable mention from the **Nat
 Council on Public History.** Archaeological field research in the region has been led
 by **Dr. Carolyn Dillian** of CCU's anthropology faculty.
 
+One further caution belongs here. A 1987 listing of Waccamaw surnames compiled for the
+Lumbee petition does not include Dimery, Hatcher, Cook, Turner or Thompkins. That is
+what one would expect: it recorded the Waccamaw who went *into* the Lumbee after 1720,
+not the families who stayed on the river. The two lists describe two halves of the same
+scattering.
+
 The researcher **Forest Hazel** was engaged in **1994**, under a federal
 Administration for Native Americans grant, to study the Settlement; his article is
 published through the Horry County historical community. **Dr. John Ross** wrote that
@@ -291,23 +301,55 @@ about 1800, presumed to be of "the historic Waccamaw and Cape Fear." Independent
 researchers documenting a Waccamaw group that left the Carolinas in the 1770s put the
 matter this way: some joined the Catawba and were absorbed — *"Some did but not all."*
 
-**Against.** The **Horry County Historic Resource Survey**, prepared by New South
-Associates for the **South Carolina Department of Archives and History** and the county,
-states that after the 1720 war "the Waccamaws were essentially eradicated, though some
-survivors may have existed as late as 1733 and integrated with tribes further inland."
-That is a state-commissioned document, and it says the tribe ended. It cites Milling —
-the same historian the tribe cites, at a different page.
+**Against, and the answer to it.** The **Horry County Historic Resource Survey**,
+prepared by New South Associates for the **South Carolina Department of Archives and
+History** and the county, states that after the 1720 war "the Waccamaws were
+essentially eradicated, though some survivors may have existed as late as 1733 and
+integrated with tribes further inland." That is a state-commissioned document, and it
+says the tribe ended. It should be met squarely rather than ignored.
 
-The same survey **never mentions the Dimery Settlement.** It catalogues houses, barns
-and tobacco barns along Dog Bluff Road, all "Not Eligible," and records no Native
-community there at all. A century of a distinct settlement, with its own church and its
-own school, is simply absent from the county's inventory of its own historic resources.
+Three things answer it.
 
-Both of those facts are part of the record too. The second one is, in its way, the
-whole story of this exhibit: the erasure did not stop in 1850. It is still being
-written into official documents, by people who are not malicious, working from sources
-that were themselves compiled by people who had been instructed not to write the word
-*Indian.*
+It is not a study of the Waccamaw. The survey is an inventory of **buildings**, made to
+judge structures for National Register eligibility. Its Native American content is two
+paragraphs of background scene-setting, drawn secondhand — and its citation for the
+eradication sentence is **Milling, page 227**, while the same historian at **pages 150
+and 203** supplies the 1716 peace and the 1720 confederacy. One book, three pages, two
+different stories. A passing summary in a building survey is not a finding about
+whether a people survived.
+
+The eradication story was contested at the time by the person best placed to know.
+When the colony asked **King Hagler of the Catawba** to bring the Waccamaw to heel, he
+answered that he could not — which is difficult to square with a people who had been
+absorbed into his own nation. Independent researchers reviewing the same question in
+2020 put it plainly: some joined the Catawba and were absorbed, *"Some did but not
+all."*
+
+And "essentially eradicated" is not the standard. Federal acknowledgment asks for a
+**reasonable likelihood**, and expressly "will not require conclusive proof." Survival
+is demonstrated by what follows — the deed, the settlement, the church, the school, the
+1900 Indian schedule — not disproven by a nineteenth-century assumption repeated in a
+twenty-first-century footnote.
+
+**The silence that proves the point.** That same survey **never mentions the Dimery
+Settlement.** Not once. It catalogues houses, barns and tobacco barns along Dog Bluff
+Road, marks them all "Not Eligible," and records no Native community there.
+
+That is not evidence the Settlement was not there. It is evidence of what a survey of
+*structures* is built to see. A community is not a building; a church congregation and
+a schoolhouse full of children do not survive as architecture. The gap is real, and it
+is fixable — a determination of eligibility or a National Register nomination for the
+Settlement would put it into the state's inventory where it belongs, and it is
+precisely the kind of work the tribe's academic partners do.
+
+It is also, in its way, the whole story of this exhibit. The erasure did not stop in
+1850. It is still being written into official documents, by people who are not
+malicious, working from sources that were themselves compiled by people who had been
+instructed not to write the word *Indian.* Which is the point: **a record assembled
+under a policy of erasure cannot be read as though it were neutral.** The federal rule
+now says as much, requiring that periods of demonstrably unavailable evidence be taken
+into account. The absence of the word is the fingerprint of the policy, not proof of
+the absence of the people.
 
 ## XI. What the record holds
 
